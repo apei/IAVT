@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch03"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Metodología y dieseño: ¿por dónde empezamos?</title>
+  <simplesect>
+  	<para>
+  		La información útil no llega a las empresas en la forma que éstas necesitan, a menudo se halla inmersa junto con un cambalache de información 
+  		inútil. La tarea del documentalista es evaluar esa información de acuerdo con unos criterios:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Fiabilidad de las fuentes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Riqueza (en datos o referencias).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Vulnerabilidad (facilidad de manipulación).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Variación dependiendo del formato y del entorno en donde se recoge esa información (utilizar indicadores [ver presentación de Daniel Torres-Salinas, 2009]).
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  </simplesect>
+  <section xml:id="ch03a">
+  	<title>Metodología y fases</title>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Implicación de la Dirección: </emphasis>Como cliente y soporte de la estrategia, la implicación de la Dirección se antoja fundamental 
+  				en el proceso de implantación de un sistema de gestión de la información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Nombramiento del animador:</emphasis> El valor del sistema de gestión de la información se encuentra en su dinamismo, aspecto que debe 
+  				fomentarse desde la figura de un responsable o animador del sistema.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Definición del equipo de gestión de la información: </emphasis>El desarrollo de las actividades lleva asociada la creación de roles y 
+  				el reparto de responsabilidades a un colectivo que debe presentar un determinado perfil de competencias.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Diagnóstico de gestión de la información: </emphasis>La gestión de la información es un enfoque que nunca parte de cero en 
+  				las organizaciones, por lo que es necesario identificar patrones actuales y potenciales para el manejo de la información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Identificación de factores y fuentes de información: </emphasis>Desde la colaboración y comunicación de la Dirección y el 
+  				equipo de gestión de la información, se establecen los factores clave a vigilar, identificando y seleccionando las fuentes más relevantes. (FCV).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Creación del Manual de gestión de la información: </emphasis>En línea con las iniciativas de calidad organizativa es 
+  				conveniente la documentación de las prácticas que se siguen para el desarrollo del proceso de gestión de la información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Revisión de procedimientos: </emphasis>Una vez sentada la base de actuación en materia de gestión de la información habrá 
+  				de establecerse una revisión periódica para adecuar cada uno de los aspectos a los cambios del contexto interno y externo a la organización.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<informalfigure xreflabel="Fig 3">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-052.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  	<informalfigure xreflabel="Fig 4">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-007.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Fases de procesos de la vigilancia tecnológica<footnote><para>MAURICIO LEÓN, Andrés; CASTELLANOS, Óscar y VARGAS, Freddy: Valoración, 
+	  				selección y pertinencia de herramientas de software utilizadas en Vigilancia Tecnológica, En: Revista Ingeniería e Investigación, vol. 
+	  				26, nº 1, abril 2006.</para></footnote>
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		La norma UNE 166.006:2006 EX tiene por objeto facilitar la formalización y estructuración en cualquier organización del proceso de escucha y observación 
+  		del entorno para apoyar la toma de decisión a todos los niveles de la organización hasta devenir en la implantación de un sistema permanente de Vigilancia 
+  		(se volverán a tratar estos puntos de la norma en el siguiente capitulo).
+  	</para>
+  	<para>
+  		Utilizar esta norma como guía para establecer una metodología de lo que sería nuestro sistema de VT es un comienzo.
+  	</para>
+  	<para>
+  		A parte de la metodología descrita aquí arriba que no forma parte de la norma, la norma UNE recoge estos pasos:
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Identificar áreas y objetivos prioritarios de actuación del sistema de VT.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Asegurarse de la disponibilidad de recursos e información necesarios para permitir la operación y seguimiento del proceso.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Realizar el seguimiento, la medición y el análisis del proceso.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Llevar a cabo las acciones necesarias para alcanzar los resultados planificados.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>Fases de una Vigilancia Ocasional.</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Definición del problema.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de las fuentes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Búsqueda.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Análisis.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Validación de la Información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Elaboración de un Informe.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Fases de una Vigilancia Permanente.
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Definición de los Factores Críticos de Vigilancia.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de las fuentes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de las personas/grupos receptores de esa vigilancia
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Búsqueda periódica y análisis.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Envío de la información o elaboración de informes si es necesario.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  </section>
+  <section xml:id="ch03b">
+  	<title>Proceso completo de Vigilancia</title>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Diagnóstico estratégico del sector.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de los problemas competitivos relevantes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de los factores críticos competitivos y tecnológicos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de los factores tecnológicos críticos y las tecnologías a vigilar.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Definición del objetivo de la vigilancia tecnológica.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Búsqueda de la información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de las palabras clave asociadas al tema a vigilar.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación y selección de las fuentes de información relevantes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Formulación de la ecuación de búsqueda.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Análisis de la información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Análisis de los resultados.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Distribución de los resultados.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Inteligencia Competitiva.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Distribución de esa inteligencia.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<informalfigure xreflabel="Fig 5">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-053.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+</chapter>

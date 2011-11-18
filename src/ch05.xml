@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch05"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Las fuentes de información</title>
+  <section xml:id="ch05a">
+	<title>Literatura gris</title>
+	<para>
+		El concepto de literatura gris es relativo e incluye cualquier tipo de documento que, por determinadas circunstancias, no se difunde 
+		por los cauces ordinarios y, en consecuencia, conlleva problemas de consulta.
+	</para>
+	<para>
+		La literatura gris también es conocida como literatura semipublicada, fugitiva, informal, invisible, subterránea, efímera, no permanente 
+		y no convencional, está integrada por una extensa gama de documentos cuyas características no están del todo definidas y cuyo valor 
+		informativo es bastante dispar.
+	</para>
+	<section xml:id="ch05a1">
+		<title>Tipos de literatura gris</title>
+		<itemizedlist>
+			<listitem>
+				<para>
+					Informes públicos y privados con información científica, técnica, económica, social, etc.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Tesis no publicadas en el mercado editorial.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Comunicaciones a congresos no publicadas en actas disponibles en el mercado editorial.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Normas y recomendaciones de carácter técnico, marcas y patentes.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Traducciones inéditas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Algunas publicaciones periódicas no publicadas comercialmente (p.e. de sociedades, periódicos locales, etc...).
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Algunos documentos oficiales de ámbito restringido o muy limitado.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Documentación técnica publicitaria.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Informes de laboratorios, estudios de mercado.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Programas de ordenador de circulación restringida entre grupos de personas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Otros documentos que se ajusten a las características indicadas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Algunos autores incluyen pasquines, hojas volanderas, propaganda comercial o política, planos, almanaques, agendas, etc...
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section>
+  </section>
+  <section xml:id="ch05b">
+  	<title>Web invisible</title>
+  	<para>
+  		Hay estimaciones que calculan en 500 veces más grande que el total de la información indizada por los buscadores, la información que 
+  		permanece invisible en la World Wide Web, lo que se ha denominado el inmenso océano de la Internet profunda.
+  	</para>
+  	<section xml:id="ch05b1">
+  		<title>Contenidos invisibles</title>
+  		<para>
+  			<emphasis role="strong">Bases de datos bibliográficas:</emphasis> se incluyen en este grupo los catálogos de biblioteca accesibles a 
+  			través de una pasarela (OPAC) web, otras bases de datos de referencias bibliográficas (de acceso público o restringido –registro previo 
+  			gratuito o de pago-) y entidades similares tales como los catálogos de librerías (ej.: Amazon.com).
+  		</para>
+  		<para>
+  			<emphasis role="strong">Bases de datos alfanuméricas:</emphasis> definidas por exclusión del grupo anterior, son todas las bases de datos 
+  			que no tienen carácter bibliográfico. Comprendería, además, los recursos llamados de referencia que requieren algún tipo de pasarela de 
+  			acceso para su consulta (ej.: Enciclopedia Británica).
+  		</para>
+  		<para>
+  			Una situación ligeramente distinta es la planteada por las <emphasis role="strong">páginas generadas dinámicamente</emphasis> (asp, jsp, php 
+  			o similares). Dichas páginas sólo existen en virtud de una consulta puntual, imposible de realizar por los robots de los motores de búsqueda 
+  			y cuyo contenido puede alcanzar un considerable grado de personalización. Desde un punto de vista documental, los contenidos que explotan 
+  			están en una base de datos y, por tanto, se consideran dentro de esta categoría. 
+  		</para>
+  		<para>
+  			<emphasis role="strong">Archivos y revistas electrónicas:</emphasis> se trata de bases de datos que incluyen documentos a texto completo y que 
+  			sólo se pueden recuperar previa identificación de la referencia, labor para la que se requiere utilizar una pasarela web simple (formulario de 
+  			consulta) o doble (palabra de acceso y formulario de consulta).
+  		</para>
+  		<para>
+  			<emphasis role="strong">Ficheros no HTML o textuales:</emphasis> el (relativo) fracaso de HTML original a la hora de generar páginas con una 
+  			maquetación muy rica, ha permitido que algunos formatos de diseño más elaborado hayan adquirido popularidad en la web (pdf, ps, ppt, doc). 
+  			Estos formatos no textuales no son indizados correctamente por los robots de los motores de búsqueda (excepción: Google.com ya indiza 
+  			documentos pdf y los convierte en HTML) y, por tanto, constituyen una parte del webespacio invisible que ha ido adquiriendo cada vez 
+  			más importancia.
+  		</para>
+  		<blockquote>
+  			<para>
+  				La información, recurso estratégico indispensable para el desarrollo económico y social de un pueblo, muchas veces no logra llegar al 
+  				público a través de los canales normales o convencionales de divulgación; un caso particular es la llamada literatura gris que sirve 
+  				de apoyo a los procesos de investigación y que frecuentemente proporciona información no localizada en las fuentes convencionales. La 
+  				literatura gris –que fue rápidamente aceptada por la comunidad científica, bien como fuente o como instrumento de difusión– trajo consigo 
+  				un nuevo modo de presentar y de dar a conocer los resultados de investigación, una nueva forma de trabajar y otra manera de entender el 
+  				proceso mismo de la investigación; en resumen, se trata de una nueva forma de comunicación científica. Actualmente, sus usuarios se han 
+  				ido incrementando gracias a las nuevas TIC propicias para producirla y difundirla; como ejemplos encontramos la elaboración constante de 
+  				informes y proyectos previos para cualquier toma de decisión y también el desarrollo de ediciones de documentos electrónicos accesibles 
+  				por medio de redes de comunicación, que por su parte incrementan el número de publicaciones que caen en esta área gris. Su uso se da entre 
+  				los mismos que la generan: científicos, investigadores, estudiantes, etc.; es decir, ellos mismos tienen necesidades de este tipo de literatura. 
+  				Entre las entidades que más la generan se ubican las universidades, empresas públicas y privadas, laboratorios, bibliotecas, museos, 
+  				sociedades, organismos de investigación, etc<footnote><para>SORIA RAMÍREZ, Verónica: La literatura Gris y los e-prints, BIBL. UNIV., 
+  				NUEVA ÉPOCA, JULIO-DICIEMBRE 2003, vol. 6, no. 2.</para></footnote>
+  			</para>
+  		</blockquote>
+  	</section>
+  </section>
+  <section xml:id="ch05c">
+  	<title>Internet</title>
+  	<para>
+  		Como es bien sabido, la fiabilidad y el rigor de las fuentes de Internet deben ser tenidas en cuenta a la hora de citarlas y la red de redes no es 
+  		una excepción, así que María Rubio Lacoba nos ofrece en el libro <citetitle pubwork="book">Teoría y Práctica de la Documentación Informativa 
+  		(ISBN: 84-344-1293-4)</citetitle> algunas pistas para poder identificar lo que puede ser considerado como fuente, o no, en Internet.
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">La autoría de la información.</emphasis> Se dan muchos casos en los que se recupera información que no puede ser atribuida a ninguna persona o 
+  				institución ya que no viene firmada. En Internet, cualquiera puede producir información pero el hecho de que se encuentre en la Red 
+  				no quiere decir que pueda considerarse como una fuente válida. Por ello, debemos de escoger aquellas fuentes que, por su trayectoria 
+  				analógica o digital, ya vengan avaladas con cierto prestigio o reconocimiento.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">La caducidad de la información.</emphasis> Si la presencia en la Red de muchas de las informaciones no vienen firmadas, deberíamos preguntarnos 
+  				cuántas de ellas vienen datadas. La fecha de cualquier documento es imprescindible para conocer el grado de actualidad o de la 
+  				actualización de los datos que ofrece. Sin embargo, en la Red muchas informaciones no poseen fecha de publicación, por lo que debemos 
+  				ser cautelosos a la hora de recoger sus datos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">La Internet Profunda.</emphasis> A pesar de los grandes esfuerzos que realizan los motores de búsqueda para la indización de la mayor cantidad de 
+  				páginas posibles, el hecho es que existe una parte de la Red a la que estos no alcanzan a registrar. A esta parte de la Red, se la 
+  				conoce como la Internet Oculta o Profunda que condensa miles de millones de páginas. La Internet Invisible contiene tanto a bases de 
+  				datos cuyos contenidos no son accesibles sin registro previo como otro tipo de fuentes de información como catálogos de bibliotecas, 
+  				bases de datos bibliográficas,†revistas electrónicas (en las que es necesario un registro previo y las que solo se puede recuperar la 
+  				información mediante búsquedas en su base de datos), documentos en formatos no indizables, obras de referencia: enciclopedias, 
+  				diccionarios... en las que es necesario interrogar a la base de datos para acceder al contenido, etc.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Información-Conocimiento.</emphasis> El propio hecho de la existencia de cierta información sobre un tema no quiere decir que sea convenientemente 
+  				aprovechada. Su peso específico lo otorga el uso, la gestión, la explicación en unas coordenadas – espacio temporales que hagamos de ella, 
+  				de hecho, la información malentendida puede degenerar en justamente lo contrario: En la desinformación, por un lado, y también en la 
+  				infoxicación.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">El ruido documental.</emphasis> Ante la cantidad de información que se genera a cada segundo en Internet, no es 
+  				infrecuente que a la hora de recuperar documentos nos topemos con algunos que nos resultan completamente irrelevantes o poco ajustados a 
+  				nuestras necesidades informativas. Estos documentos son los que se denominan ruido documental, dependiendo de la cantidad de ruido que 
+  				recuperemos deberemos plantearnos nuestras estrategias informativas y las fuentes de información que estamos 
+  				utilizando<footnote><para>Fuente: Qué es fuente de información en Internet, post del blog El Documentalista Enredado, Marcos Ros-Martín — 
+  				Domingo, 30 de Abril de 2006 [consulta 04-09-2009].</para></footnote>.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Según un estudio publicado en Estados Unidos, por la consultora Pew Research Centre, Internet es ahora por detrás de la televisión, la fuente más 
+  		importante para estar informado sobre temas de actualidad. El estudio señala que un 27% de los norteamericanos, compra el periódico un día a la semana, 
+  		cerca del 37% se informa regularmente a través de Internet y un 39% acude a los boletines informativos ofrecidos por la televisión.
+  	</para>
+  	<para>
+  		Como dato interesante señalar que el acceso a Internet como fuente de información ha disminuido su porcentaje de hace dos años cuando se situaba en un 
+  		40%, además aquéllos que se informan a través de la web de manera suficiente siguen consumiendo los medios de comunicación tradicionales.
+  	</para>
+  </section>
+  <section xml:id="ch05d">
+  	<title>¿Cómo evaluar la calidad de una web?</title>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Mirar detenidamente la URL. Es una web personal o un sitio “oficial”.
+				Dominio. ¿Es apropiado para su contenido?. Coincide el dominio con la entidad.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Mirar los lados de la página. ¿Quién la escribe?. Nombre, mail, fecha.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Examinar el contenido. Fuentes bien documentadas. Usa información de 2ª mano?. Esta alterada o falseada? Esta referenciada?
+				Enlaces a otros recursos? Funcionan?. Es evidente su parcialidad?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Qué es lo que otros cuentan de ella?. ¿Quien la enlaza? P. ej. En Google.- link:toda.la.url
+				Es enlazada por algún blog? Si es así, que es lo que dice de ella?. Busca al autor en Google.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Todo encaja?. Que fin tiene la pagina?. Comercial, educativo... Posible ironía, parodia?
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Fuente:  Teaching Library, UC Berkeley, Spring 2008 (Traducción propia).	
+		<link xl:href="http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/evaluation_checklist_2008_spring.pdf"/>
+  	</para>
+  	<para>
+  		Aunque no es posible establecer reglas estrictas de fiabilidad en los contenidos de Internet, el profesional de la información, y por extensión 
+  		cualquier internauta, debe disponer de una serie de directrices que le permitan evaluar la información para determinar su calidad.
+  	</para>
+  	<para>
+  		Las herramientas que se proponen para aplicar mínimos criterios de evaluación son: autoridad, credenciales, inteligibilidad del mensaje, 
+  		independencia, usabilidad, imparcialidad, temporalidad, utilidad y fuentes de procedencia del documento<footnote><para>FORNAS CARRASCO, 
+  		Ricardo: Criterios para evaluar la calidad y fiabilidad de los contenidos en Internet, Rev. Esp. Doc. Cient., 26, 1, 2003. En 
+  		<link xl:href="http://redc.revistas.csic.es/index.php/redc/article/viewFile/226/282"/> [consulta: 07-09 2009].</para></footnote>.
+  	</para>
+  	<para>
+  		Lluis Codina (2000a, 2000b, 2003, 2004) ha ido creando y depurando una herramienta de trabajo que como él mismo comenta es tan discutible 
+  		y buena como otra cualquiera y está pensada para ser aplicada a páginas web con un propósito principalmente informativo.
+  	</para>
+  	<para>
+  		Lo importante es que diferencia y establece categorías: nos habla de parámetros, indicadores y procedimientos y los engarza creando 
+  		un sistema coherente.
+  	</para>
+  	<para>
+  		Los parámetros responden a la pregunta de qué queremos evaluar: <quote>son las propiedades o dimensiones del recurso que van a ser 
+  		analizadas o consideradas</quote> (Codina, 2003, p. 3). Son 9 y se agrupan en 4 secciones: contenido, navegación (dentro de la propia página 
+  		web o micronavegación), visibilidad (inserción en la web o macronavegación) y usabilidad.
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Autoría/Fuente: identificación y solvencia de la fuente
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Contenido: calidad y cantidad de la información
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Acceso a la información: navegación y recuperación
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Ergonomía: comodidad y facilidad de utilización
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Luminosidad: número de enlaces hacia otras sedes web
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Ubicuidad: facilidad relativa que presenta una sede web para ser localizada y encontrada en el contexto de la Web
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Procesos: dónde nos encontramos y en qué momento
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Errores: respuesta (y alternativas) ante fallos
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Adaptación.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Los indicadores nos dicen cómo evaluamos los parámetros (por lo que cada uno de ellos está asociados a uno de los parámetros e identificado por 
+  		un número que incluye el del parámetro) y llevan asociados uno o varios procedimientos en los que se detallan los pasos concretos que se dan 
+  		para analizar cada indicador.
+  	</para>
+  	<para>
+  		Establece cuáles son los indicadores de cada parámetro.
+  	</para>
+  	<para>
+  		Realiza una ficha para cada indicador en la que incluye (como se ve en el ejemplo):
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Definición: cuál es el indicador
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Examen: qué preguntas debe hacerse el evaluador para determinar su calidad
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Ejemplos: qué recursos digitales ayudan a entender lo que se debe evaluar o aclaraciones sobre lo que se debe evaluar. También puede 
+  				incluir ejemplos de lo que no debe hacerse.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Procedimiento: orientaciones sobre cómo proceder
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Puntuación: escala de puntuación recomendada para cada indicador: cuando se mide si algo se cumple o no: 0 ó 1; si no, recomienda una 
+  				escala del 0 (error grave) al 3 (excelente)<footnote><para>Fuente: La evaluación de páginas web, Andoni Calderón.
+				<link xl:href="http://observatorio.cnice.mec.es/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=334"/> [consulta 11/09/09].</para></footnote>.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  </section>
+  <section xml:id="ch05e">
+  	<title>Búsquedas y buscadores: más allá de Google</title>
+  	<para>
+  		Una vez identificado y precisado el tema y la tecnología a vigilar, en una segunda etapa se elabora e implementa la estrategia de búsqueda 
+  		y captación de la información. Para ello se realizan las siguientes actividades.
+  	</para>
+  	<orderedlist numeration="loweralpha">
+  		<listitem>
+  			<para>
+  				Identificación de las palabras clave asociadas al tema a vigilar (tecnología), las cuales permitirán hacer la búsqueda en las diferentes 
+  				bases de datos. Aquí se puede acudir a tesauros ya construidos, a diccionarios propios y/o a expertos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Validación por expertos, en el tema específico estudiado, de las palabras clave seleccionadas. Este medio de validación garantiza que la 
+  				información buscada mediante las palabras conducirá a los documentos (artículos científicos, patentes, etc.) en que se registran los 
+  				avances específicos del conocimiento y/o las tecnologías relacionadas con el problema relevante estudiado.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación y selección de las fuentes de información relevantes. Estas pueden ser estructuradas (bases de datos de patentes y de 
+  				artículos científicos), semi-estructuradas (website, mail, foros, chat) y no estructuradas (documentos y reportes, noticias).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Formulación de la ecuación de búsqueda. Una vez definidas las palabras clave y seleccionadas las fuentes de información de consulta, 
+  				que tienen su propio lenguaje de interrogación –o lenguaje de comandos– para la recuperación de la información consignada en ellas y 
+  				que el usuario debe aprenderse formula la ecuación de búsqueda. Esta contiene, de manera rigurosa, los textos en los que se registran 
+  				y articulan las palabras precisas y clave para buscar en las bases de datos (fuentes de información consultadas) la información requerida.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Elaboración del contenido. A partir de la ecuación de búsqueda, definida y validada en el paso anterior, se realizan las consultas en las 
+  				bases de datos seleccionadas y se extrae de ellas la información relevante. El producto de tales procesos es el corpus, es decir, el 
+  				conjunto extenso y ordenado de los registros de las bases de datos que contienen la información útil para el estudio.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<section xml:id="ch05e1">
+  		<title>Las búsquedas</title>
+  		<section xml:id="ch05e1a">
+  			<title>Búsqueda semántica</title>
+  			<para>
+  				La extracción del significado para adquirir un mayor nivel de abstracción se presenta “como lo último” de las búsquedas. Cuando se puede 
+  				extraer, abstraer y manejar el significado de los objetos indexados, las búsquedas pueden afinarse mucho más que con los mecanismos 
+  				convencionales. Sin embargo esa es sólo una parte del problema: también hay que ser capaces de extraer el significado (y aún diríamos 
+  				que la “intención”) de lo que quiere decir el usuario.
+  			</para>
+  			<para>
+  				Aunque la tecnología semántica se presenta como el elemento clave en la evolución de la Internet del futuro (incluso se propone como 
+  				el sustrato sobre el que se asentaría la llamada Web 3.0), aún es difícil encontrarla en servicios reales. Todos aquellos que claman 
+  				basarse en el uso de tecnología semántica, se dedican a mercados verticales, muy orientados a aplicaciones muy concretas como la búsqueda 
+  				de personas (como Spock <link xl:href="http://www.spock.com"/>), sin que los resultados sean tan espectacularmente precisos como cabría 
+  				esperar.
+  			</para>
+  			<para>
+  				Los buscadores verticales, especializados, y centrados en un tipo concreto de contenidos están tendiendo un gran desarrollo, aunque 
+  				por su propia naturaleza es difícil que supongan una alternativa generalista.
+  			</para>
+  			<para>
+  				La Web Semántica<footnote><para><link xl:href="http://weblogs.madrimasd.org/sistemas_inteligentes/archive/2008/05/02/90703.aspx"/> 
+  				[consulta 30-08-09].</para></footnote>  se puede definir como un marco que permite publicar, compartir y reutilizar datos y conocimiento 
+  				tanto en la red como a través de aplicaciones. Dentro de este marco, se encuentran.
+  			</para>
+  			<orderedlist>
+  				<listitem>
+  					<para>
+  						<emphasis role="strong">XML</emphasis>, que provee una sintaxis elemental para estructura el contenido dentro de los documentos, 
+  						pero sin asociar ningún tipo de semántica al mismo.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						<emphasis role="strong">RDF</emphasis>, un lenguaje que permite expresar modelos de datos, tanto las descripciones de los objetos 
+  						(recursos) como las relaciones entre los mismos. Los modelos basados en RDF se pueden representar en sintaxis XML.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						<emphasis role="strong">OWL</emphasis>, que añade más vocabulario para describir propiedades y clases como las relaciones entre 
+  						clases (por ejemplo que sean disjuntas), cardinalidad (por ejemplo que sean exactamente 3), igualdad, características de las 
+  						propiedades (por ejemplo simetría) y clases enumeradas.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						<emphasis role="strong">SPARQL</emphasis>, un protocolo y lenguaje de consultas para recursos de la Web semántica.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						<emphasis role="strong">Ontologías</emphasis>, que definen conceptos y relaciones entre los mismos, como FoaF (Friend of a Friend) , 
+  						que es una ontología basada en RDF que permite modelar la información de personas y las relaciones entre las mismas.
+  					</para>
+  				</listitem>
+  			</orderedlist>
+  		</section>
+  		<section xml:id="ch05e1b">
+  			<title>Búsqueda personal</title>
+  			<para>
+  				En el otro extremo está la tendencia hacia incorporar un matiz más humano en las búsquedas. En realidad es basa en que el análisis y 
+  				clasificación semántica se realicen por medio de personas, o al menos complementado con su visión. Se trata de una acción que tiene 
+  				relación con la llamada Inteligencia Artificial, que pone a personas reales a realizar procesos generalmente mecanizados insatisfactoriamente: 
+  				desde clasificar imágenes, hasta interpretar el sentido de la búsqueda de un usuario. Con las limitaciones propias de un sistema con una 
+  				fuerte componente manual (por ejemplo, una menor escalabilidad), ejemplos como Mahalo <link xl:href="http://www.mahalo.com"/> están para 
+  				demostrar las carencias de los algoritmos automáticos.
+  			</para>
+  			<para>
+  				El etiquetado es una primera acción que ayuda a una clasificación más precisa. La anotación, el comentario sobre contenidos (como el 
+  				reciente ejemplo de Google Reader) amplia los horizontes del análisis automático partiendo de acciones personales.
+  			</para>
+  			<para>
+  				El matiz personal en las búsquedas está siempre presente en el análisis de la interacción de los usuarios que da lugar a la generación 
+  				automática de perfiles, y la inclusión de recomendaciones. La corrección de resultados en función de la reacción y preferencias abre la 
+  				puerta a otra modalidad que combina uno de los movimientos más poderosos en la red.
+  			</para>
+  		</section>
+  		<section xml:id="ch05e1c">
+  			<title>Búsqueda social</title>
+  			<para>
+				Los principios de esta modalidad son la identificación de perfiles afines a partir de la red social (amigos, conocidos, otras personas 
+				con intereses similares) y modular los resultados de acuerdo con las acciones previas de los miembros de esa red. Se trata, como se ve, 
+				de una forma de complementar los algoritmos con un matiz personal, si bien en este caso el toque humano tiene una procedencia más 
+				diluida. Google, aparentemente investigando en esta línea, no ha creado una red social alternativa, pero sí trabaja en 
+				herramientas de identificación y análisis de la red de un usuario. Otras herramientas tratan de construir automáticamente (y no 
+				explícitamente) esa red, partiendo del análisis del intercambio de correo, por ejemplo. Esas redes sociales implícitas, y generadas 
+				por medio de algoritmos, pueden ser la pieza que ayude a complementar a los sistemas automáticos y de gran capacidad aunque aún con 
+				pobre calidad.
+  			</para>
+  		</section>
+  		<section xml:id="ch05e1d">
+  			<title>Búsqueda y referencia</title>
+  			<para>
+  				Es difícil encontrar un término que defina esa combinación de Wikipedia y Google que para muchos tiene el potencial de cambiar el 
+  				mundo de las búsquedas. Wikipedia tiene una enorme cantidad de información, generada por sus propios usuarios, y que pese a 
+  				polémicas, disputas y controversias, es asumida como una fuente de referencia por muchísimas personas. ¿Y si las búsquedas 
+  				mostraran no miles de resultados que exigen una labor adicional de investigación y depuración, si no que apuntaran a resultados 
+  				completos, elaborados y sintetizados como los de la Wikipedia? Para muchos usuarios este escenario define a la herramienta que 
+  				están esperando.
+  			</para>
+  			<para>
+  				Wikia Search <link xl:href="http://answers.wikia.com"/> o Wikiasari sería un movimiento en este sentido, proporcionado un 
+  				sistema de búsquedas apoyado fundamentalmente en los contenidos de la Wikipedia. El servicio Knol <link xl:href="http://knol.google.com"/> 
+  				de Google, aún en construcción, sería una respuesta en forma de una Wikipedia con autores reconocidos y contenidos fiables. La principal 
+  				limitación está en el volumen de información, ya que es imposible competir con expertos a la legión de voluntarios que contribuyen en 
+  				la Wikipedia. Cuando se haga público podremos valorar lo acertado de este concepto, nada novedoso si consideramos otras 
+  				“enciclopedias” en la red, como Encarta o la versión electrónica de la Britannica.
+  			</para>
+  			<para>
+  				Otros frentes en el desarrollo de las búsquedas tienen que ver con el <emphasis role="strong">lenguaje natural y la traducción automática</emphasis> 
+  				de contenidos. En ambos Google está haciendo una fuerte inversión dada su vocación de servicio global. La traducción automática 
+  				ampliaría notablemente los contenidos disponibles, y un lógico movimiento de futuro ahora que el país con más usuarios conectados 
+  				es China, y cabe esperar una reducción en el peso relativo de los contenidos en inglés. Sin embargo, la traducción automática 
+  				tiene un largo y frustrante historial y ha engullido enormes inversiones sin alcanzar resultados satisfactorios. El factor 
+  				diferencial introducido por Google (el análisis comparativo de una enorme base de textos en varios idiomas) es muy novedosa y 
+  				siendo realistas algo que sólo está en manos de este empresa.
+  			</para>
+  			<para>
+  				El lenguaje natural mejora las posibilidades de interacción con el usuario, y cuando se trata de la interpretación vocal amplía 
+  				los horizontes de las aplicaciones preparando su salto al móvil y entornos donde el uso de pantallas está muy restringido, como 
+  				en el caso del coche. A día de hoy, los proyectos de lenguaje natural y traducción automática son los que están recibiendo más 
+  				atención en Google Research<footnote><para>Fuente: La Cofa <link xl:href="http://www.lacofa.es/index.php/tecnologias/futuro-de-internet/espectativas-de-evolucion-en-los-buscadores"/> 
+  				[Consulta:  08-09-2009].</para></footnote>.
+  			</para>
+  		</section>
+  	</section>
+  	<section xml:id="ch05e2">
+  		<title>Los buscadores</title>
+  		<section xml:id="ch05e2a">
+  			<title>Buscadores especializados y temáticos</title>
+  			<para>
+  				Ofrecen resultados de un ámbito determinado de actividad.
+  			</para>
+  			<para>
+  				Son más útiles que los buscadores genéricos cuando buscamos una tipología determinada.
+  			</para>
+  			<para>
+  				Elimina el <emphasis role="strong">ruido</emphasis> que introduce otro tipo de páginas web.
+  			</para>
+  			<para>
+  				Poseen un <emphasis role="strong">alto grado de parametrización</emphasis>, por ejemplo, en Google Scholar podemos buscar 
+  				sólo artículos recientes o en Technorati blogs con un determinado nivel de “autoridad”.
+  			</para>
+  			<itemizedlist>
+  				<listitem>
+  					<para>
+  						Noticias. Google News <link xl:href="http://news.google.es"/>
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Material Académicos. Google Scholar <link xl:href="http://scholar.google.es"/>
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Blogs. Technorati <link xl:href="http://technorati.com"/>
+  					</para>
+  				</listitem>
+  			</itemizedlist>
+  		</section>
+  		<section xml:id="ch05e2b">
+  			<title>Buscadores que aportan innovación en la forma de pre- sentar los resultados de búsqueda</title>
+  			<para>
+  				Estos buscadores presentan el resultado con imágenes, con árboles de conocimiento relacionados entre sí, dando más información en 
+  				el enlace que proporcionan, etc. Entre estos buscadores nos han llamado la atención los siguientes:
+  			</para>
+  			<itemizedlist>
+  				<listitem>
+  					<para>
+  						Oskope <link xl:href="http://www.oskope.com"/>: Buscador muy intuitivo, que ofrece varias formas para mostrar los 
+  						resultados de búsqueda (lista, grid, gráfico, etc). No hace una búsqueda global, permite buscar en Amazon, eBay, 
+  						Flickr.com, YouTube, etc.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Picitup <link xl:href="http://www.picitup.com"/>: Este buscador directamente sirve par buscar fotos en la red, 
+  						por lo que no es tan innovador. La parte interesante es que la búsqueda se puede ir refinando: buscar fotos 
+  						similares, paisajes, colores, caras,etc.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Searchme <link xl:href="http://beta.searchme.com"/>: De momento está versión beta muestra una captura de cada 
+  						página y permite filtrar la búsqueda por temas que te ofrece el propio buscador.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Grokker <link xl:href="http://www.grokker.com"/>: Ofrece en una columna un listado de resultados agrupados en 
+  						bloques según subtemas que considera el buscador y en otra columna detalla los resultados. También ofrece una 
+  						vista de un mapa de resultados. La contrapartida es que parece algo lento.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Search Monkey <link xl:href="http://developer.yahoo.com/searchmonkey"/>: Esta es una apuesta de Yahoo para permitir 
+  						a los desarrolladores y dueños de sitios modificar las búsquedas de Yahoo!, pudiendo mostrar los resultados de la 
+  						forma más útil o modificando el aspecto visual de los mismos.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						KartOO <link xl:href="http://www.kartoo.com"/>: Co-fundada en Francia en 2001, tla compañía homónima lanzó en 2002, 
+  						KartOO un meta motor de búsqueda implementado en Flash que proporciona un interfaz visual para explorar los 
+  						resultados. Una vez entrada la búsqueda obtienes un “mapa” en vez de una lista. Este mapa visualiza los resultados 
+  						como entidades y las palabras clave como relaciones. Los sitios web se representan mediante una captura de 
+  						pantalla en baja resolución con la URL. Además, el tamaño se utiliza como atributo visual para representar 
+  						la relevancia del sitio dentro de la interrogación.
+  					</para>
+  				</listitem>
+  			</itemizedlist>
+  			<para>
+				Las palabras relevantes se usan también para relacionar diferentes resultados que se muestran en el mapa y, 
+				además, para permitir la posibilidad de redefinir la búsqueda añadiéndolas a la interrogación inicial. La 
+				propia información relacional produce curvas de nivel utilizando la <emphasis>metáfora del paisaje</emphasis> que 
+				se encuentra en los mapas cartográficos. La herramienta utiliza la clausura como vehículo para permitir al 
+				usuario ver cuáles son las relaciones entre objetos de una forma más clara que con enlaces.
+			</para>
+			<para>
+				Aquí la interacción involucra al usuario en el proceso de búsqueda y le proporciona medios de exploración.
+			</para>
+			<para>
+				Kartoo tiene otros interesantes proyectos de búsqueda visual como es Ujiko <link xl:href="http://www.ujiko.com"/>. 
+				Su display muestra los resultados en un menú oval con una sección central abierta donde el usuario puede marcar 
+				determinados resultados como relevantes. La sección central se usa para añadir información a los resultados. 
+				Mediante bloques coloreados se ayuda al usuario a identificar agrupaciones (clusters) nominales.
+			</para>
+			<para>
+				Otra interesante característica de este motor de búsqueda es que cuanto más lo usas más funciones es capaz de 
+				proporcionarte. Cada vez que visitas un sitio web ganas un punto de experiencia. Con cada 10 puntos promocionas 
+				al siguiente nivel consiguiendo nuevas funcionalidades. Esta innovadora característica demuestra el deseo de Kartoo 
+				de obtener información sobre la interacción del usuario introduciendo su aplicación como si de un juego se tratase.
+			</para>
+			<para>
+				A pesar de estas mejoras, las nuevas interfaces heredan los mismos viejos y básicos problemas sin proporcionar en 
+				cambio avances significativos en la interacción. La explosión de los multimedia y las nuevas necesidades de 
+				información no hace más que incrementar la necesidad de disponer de interfaces visualmente ricas, más sofisticadas 
+				y complejas capaces de buscar en contenidos multimedia interrelacionados. Hace ya bastante tiempo han aparecido 
+				algunos navegadores visuales que intentan superar las limitaciones de la presentación y la interacción en los 
+				motores de búsqueda tradicionales.
+			</para>
+			<para>
+				Hasta ahora estos tipos de navegadores y motores de búsqueda visual se habían considerado aplicaciones online más 
+				cercanas a lo artístico que a lo utilizable. Puede ser útil el artículo “Motores de búsqueda visuales” de la 
+				revista Infovis: <link xl:href="http://www.infovis.net/printMag.php?num=198&amp;lang=1"/>
+			</para>
+			<para>
+				<emphasis role="strong">Buscadores que buscan innovación en la manera de solicitar la búsqueda</emphasis>, que 
+				tradicionalmente se ha hecho mediante cadenas de “palabras clave”.
+			</para>
+			<para>
+				Entre estos buscadores están los buscadores vocales, que permiten introducir el input a través de la voz. Entre 
+				estos ya existen iniciativas de Yahoo con mejoras en oneSearch y de Microsoft con mejoras en Microsoft Live Search.
+			</para>
+			<para>
+				Otro tipo de buscadores interesantes serían los que tienen como input una imagen. Vodafone ya tiene lista una 
+				propuesta, con su buscador Otello. El funcionamiento de este buscador será el siguiente: haces una foto con tu 
+				terminal, la envías por MMS al número de servicio correspondiente a Otello y recibes como respuesta información 
+				relevante asociada a esa imagen.
+			</para>
+			<para>
+				Este tipo de buscadores pueden ser muy interesantes, especialmente cuando no se usa un ordenador para realizar las búsquedas. 
+				En concreto, parecen especialmente interesantes cuando la búsqueda se realiza desde un móvil y de hecho las iniciativas 
+				analizadas van claramente encaminadas a su uso desde terminales móviles. Hay que tener en cuenta que escribir en un móvil 
+				es tedioso (aunque incorpore un teclado <emphasis>qwerty</emphasis>) por lo que poder introducir la información de manera 
+				vocal o mediante una foto puede ser una opción muy atractiva para usuarios con este tipo de terminales. Si se consigue que 
+				estos usuarios utilicen este tipo de buscadores, se les podrá ofrecer otros servicios combinados que junto con el buscador 
+				permitan el uso de otras capacidades de telecomunicaciones.
+			</para>
+  		</section>
+  	</section>
+  </section>
+  <section xml:id="ch05f">
+  	<title>Las fuentes: Gratuitas vs. Pago</title>
+  	<para>
+  		No hace tanto tiempo la búsqueda de información para hacer un Informe de Vigilancia requería estar suscrito a Bases de Datos muy caras 
+  		y exclusivas, donde estaba todo lo que había disponible.
+  	</para>
+  	<para>
+  		Bases de Datos como por ejemplo Dialog (ahora Grupo Thomson) eran las únicas fuentes donde encontrar determinadas cosas.
+  	</para>
+  	<para>
+  		Hoy en día, ya no es así. Las patentes, las tesis doctorales, las hemerotecas de los periódicos (la última incorporación es la 
+  		hemeroteca de ABC que incluye la publicación Blanco y Negro <link xl:href="http://hemeroteca.abc.es/"/>), los movimientos de 
+  		productos en las aduanas, la legislación, son en su gran mayoría información gratuita en Internet. Lo único que hay que tener 
+  		es paciencia y método y realizar periódicamente un barrido de fuentes para tenerlas todas localizables.
+  	</para>
+  	<para>
+  		Ejemplo de ello son el BOE, los Boletines de las CCAA, las BD del ICEX, la BD de patentes de los diferentes países, etc.
+  	</para>
+  	<para>
+  		Los principales proveedores de información (Thomson, Elsevier, EBSCO, Chemical Abstract...) están incorporando a sus bases de datos 
+  		herramientas que permiten el tratamiento básico de la información (recuentos de la frecuencia de coaparición de palabras), el 
+  		análisis más complejo de la información a través de co-ocurrencias de palabras, clusterización, y visualizaciones, que aportan 
+  		mayor valor a los resultados de una búsqueda, ofreciendo de esta manera un valor añadido que justifique la suscripción.
+  	</para>
+  </section>
+  <section xml:id="ch05g">
+  	<title>Reflexiones</title>
+  	<para>
+  		Las búsquedas complejas están condenadas a desaparecer. Las grandes Bases de Datos ya no tienen la exclusiva de la información. Hay 
+  		otros métodos para obtener la información que deseamos que antes eran impensables.
+  	</para>
+  	<para>
+  		Por otro lado las pymes no necesitan un gran software de Vigilancia Tecnológica. Lo que hoy ofrece Internet de forma más o gratuita 
+  		o a un coste muy bajo es más que suficiente para apoyo de un servicio de estas características.
+  	</para>
+  	<para>
+  		A día de hoy, y si la tendencia sigue como hasta ahora, será la unión de diferentes herramientas las que conformen el sistema.
+  	</para>
+  	<para>
+  		Muchas de estas herramientas nos ayudan a aglutinar una red de contactos que sirven para añadir un tipo de información más 
+  		subjetiva, más allá de las grandes búsquedas. Esta red de contactos a través de las redes sociales, unido a otro tipo de 
+  		herramientas valorizan las búsquedas y dan valor a los Informes de Vigilancia, así como te mantienen al día de nuevas fuentes. 
+  		Si se sabe montar el puzle de todos estos servicios (twitter, linkedin, lector de rss, buscadores especializados, rastreadores 
+  		de webs, alertas de noticias, etc...) se crearía un servicio de Vigilancia a un precio más que razonable.
+  	</para>
+  	<informalfigure xreflabel="Fig 12">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-014.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch05h">
+  	<title>Ejemplos de Bases de Datos de contenido completo y gratuito</title>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Japan Science and Technology Information Aggregator</emphasis>
+  				<link xl:href="http://www.jstage.jst.go.jp/browse/"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 13">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-015.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Canadian Film Encyclopedia Search</emphasis>
+  				<link xl:href="http://www.filmreferencelibrary.ca/index.asp?navid=46"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 14">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-017.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Academic Archive On-line</emphasis>
+  				<link xl:href="http://www.diva-portal.org/index.xsql?lang=es"/>
+  			</para>
+  			<para>
+  				Búsqueda de tesis doctorales y algún otro tipo de publicación del tipo de tesinas, informes...
+  			</para>
+  			<para>
+  				Limitado a las universidades que aparecen en el menú. Muchos resultados están a texto completo.
+  			</para>
+  			<informalfigure xreflabel="Fig 15">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-016.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Thomas Register of America Manufacturers</emphasis>
+  				<link xl:href="http://www.thomasnet.com/"/>
+  			</para>
+  			<para>
+  				Información sobre productos, empresas y marcas de EEUU y Canadá. Gratuito, pero requiere suscripción.
+  			</para>
+  			<informalfigure xreflabel="Fig 16">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-019.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Estadísticas de Extremadura</emphasis>
+  				<link xl:href="http://www.estadisticaextremadura.com/"/>
+  			</para>
+  			<para>
+  				<emphasis role="strong">Distribución territorial de apellidos (Datos del Padrón a 1-1-2006)</emphasis>
+  				<link xl:href="http://www.ine.es/fapel/FAPEL.INICIO"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 17">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-020.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  			<informalfigure xreflabel="Fig 18">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-021.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Bibliothèque nationale de France</emphasis>
+  				<link xl:href="http://www.bnf.fr/pages/zNavigat/frame/version_espagnole.htm?ancre=espagnol.htm"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 19">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-022.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Patent Scope</emphasis>
+  				Search International Patent Applications. <link xl:href="http://www.wipo.int/pctdb/en/"/>
+  			</para>
+  			<para>
+  				<emphasis role="strong">Fuentes de búsqueda de Tesis doctorales:</emphasis>
+  				Tesis de la Universidad de Barcelona.. <link xl:href="http://www.bib.ub.edu/recursos-informacio/tesis-doctorals/"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 20">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-024.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Project MUSE.</emphasis>
+  				<link xl:href="http://muse.jhu.edu/"/>
+  			</para>
+  			<para>
+  				Project Muse ofrece a texto completo, el acceso asequible a los contenidos actuales de las humanidades y las ciencias 
+  				sociales de prestigiosos diarios.
+  			</para>
+  			<para>
+  				MUSE es la fuente más fiable de los títulos de muchas de las editoriales universitarias más importantes del mundo y 
+  				sociedades científicas, revistas con artículos aclamada por la crítica de los académicos más respetados en sus campos.
+  			</para>
+  			<informalfigure xreflabel="Fig 21">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-023.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Sentencias del Tribunal Supremo</emphasis>
+  				<link xl:href="http://poderjudicial.es/eversuite/Getrecord?Template=cgpj/ts/principal.htm"/>
+  			</para>
+  			<informalfigure xreflabel="Fig 22">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-025.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  			<informalfigure xreflabel="Fig 23">
+  				  	<mediaobject>
+  				  		<imageobject>
+  				  			<imagedata fileref="resource/INF-4-026.jpg" />
+  				  		</imageobject>
+  				  	</mediaobject>
+  			</informalfigure>
+  		</listitem>
+  	</itemizedlist>
+  </section>
+</chapter>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch04"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>La información y la empresa</title>
+  <blockquote>
+	<para>
+		Tu vigilancia necesita extenderse más allá de las fronteras tradicionales de tu sector y sus actuales productos. Tus competidores 
+		tradicionales son a menudo el punto de vista equivocado para detectar las señales de cambios profundos.
+	</para>
+	<attribution>Eckhard Pfeiffer, Presidente de Compaq Computer.</attribution>
+  </blockquote>
+  <section xml:id="ch04a">	
+  	<title>¿Para qué sirve la Vigilancia en una empresa?</title>
+  	<para>
+  		Las empresas europeas pierden más de 3,5 billones de Euros en investigar y desarrollar productos ya patentados (Farreras 1994).
+  	</para>
+  	<para>
+  		Se estima que el 80% de la información Técnica está almacenada en las bases de patentes. Sin embargo el uso de las Patentes 
+  		como fuente de información en Europa está muy lejos del de Japón o Estados Unidos.
+  	</para>
+  	<informalfigure xreflabel="Fig 6">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-008.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  	<informalfigure xreflabel="Fig 7">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-009.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  	<blockquote>
+  		<para>
+  			Una empresa que tenga acceso a información valiosa para su competitividad, en una forma oportuna y adecuada, que cuente con una cultura 
+  			en la que se promueva la discusión y donde los miembros clave de la empresa mantengan contacto con fuentes externas de información, y más 
+  			importante aún, que pueda transformar esta información en un producto “inteligente”, es decir, que brinde resultados de alto valor 
+  			estratégico, verá incrementada significativamente sus posibilidades para obtener innovaciones existosas.
+  		</para>
+  		<attribution>Fuente: Escorsa y Maspons (2001).</attribution>
+  	</blockquote>
+  	<section xml:id="ch04a1">
+  		<title>La información falsa en Internet</title>
+  		<para>
+  			La Nasdaq (<foreignphrase lang="en">National Association of Security Dealers-Automatic Quotation</foreignphrase>, bolsa electrónica norteamericana) 
+  			ha introducido un dispositivo de vigilancia (<foreignphrase lang="en">surveillance device</foreignphrase>) que permite detectar información falsa en 
+  			internet lanzada con la intención de afectar un determinado valor cotizado.
+  		</para>
+  		<para>
+  			Desarrollado por la conocida empresa especializada en seguridad de datos RSA (iniciales de los apellidos de sus fundadores Ronald L. Rivest, Adi 
+  			Shamir y Leonard M. Adleman), utiliza sistemas criptográficos y pretende controlar todo lo que se dice en <foreignphrase lang="en">chatrooms</foreignphrase> 
+  			sobre bolsa, descubriendo qué datos erróneos se vierten sobre las 4.000 principales empresas norteamericanas.
+  		</para>
+  		<para>
+  			Más detalles sobre el sistema en: <link xl:href="http://www.news.com/News/Item/0,4,14008,00.html"/> [Financial Times, 05/09/97, p. 1].
+  		</para>
+  	</section>
+  </section>
+  <section xml:id="ch04b">
+  	<title>La Vigilancia y su ayuda a la empresa</title>
+  	<para>
+  		La puesta en marcha de <emphasis role="strong">procesos de vigilancia</emphasis> permite anticiparse, encontrar respuestas y localizar la información 
+  		relacionada con un tema previamente definido, reducir riesgos y aumentar nuestra capacidad de innovación. A partir de ahí, recuperados los documentos 
+  		que cumplen con los parámetros objetivos, éstos se deberán analizar, valorar, ordenar, clasificar, haciéndolos accesibles y de fácil uso.
+  	</para>
+  	<para>
+  		Existen opciones de búsqueda de diferentes características, gratuitas o de pago, con más o menos prestaciones a la hora de localizar información. No 
+  		obstante, obtener resultados depende, en la mayor parte de los casos, de la habilidad del usuario a la hora de formular la consulta, priorizar 
+  		necesidades, analizar la información disponible y los “gaps” existentes, identificar y validar la fiabilidad de las fuentes, así como las herramientas 
+  		a utilizar, ser flexibles y, cuando sea necesario, contar con expertos. Teniendo en cuenta estas premisas la cuestión sobre la inversión necesaria puede 
+  		ser, en la mayoría de los casos, no demasiado relevante.
+  	</para>
+  	<para>
+  		Existen distintas opciones y herramientas a la hora de implantar un sistema de estas características. Las herramientas de software, son fácilmente 
+  		abordables y haciendo un uso inteligente de las mismas podremos conseguir una amplia variedad de objetivos.
+  	</para>
+  	<para>
+  		El tamaño de la empresa no será, por tanto, una variable que condicione o defina la pertinencia o no de la <emphasis role="strong">función de vigilancia.</emphasis> 
+  		Por el contrario, cuando en nuestro día a día percibamos que la tecnología se puede comprar sin demasiada dificultad, que el producto es conocido, que 
+  		no existen diferencias destacables en costes y que, sin embargo, el valor se encuentra en aportar algo más cada día, dando soluciones innovadoras y 
+  		diferentes al resto, necesitaremos, posiblemente, conocer y aplicar alguna de las herramientas disponibles en el mercado para realizar funciones de 
+  		vigilancia<footnote><para>Vigilancia Tecnológica e Inteligencia Competitiva: usos y aplicaciones en la empresa navarra, 2005. En: 
+  		<link xl:href="http://www.navactiva.com/web/es/documentacion?tag=210"/> [consultado el 3 de septiembre de 2009].</para></footnote>.
+  	</para>
+  </section>
+  <section xml:id="ch04c">
+  	<title>La empresa y su entorno</title>
+  	<para>
+  		Podemos identificar tres tipos de información en función de su valor dentro de la empresa:
+  	</para>
+  	<orderedlist numeration="loweralpha">
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Difusa.</emphasis> Por supuesto la más difícil de detectar, y al mismo tiempo la que tiene más valor. Puede 
+  				conseguir modificar el desarrollo de un proyecto. Muchas veces llega a nosotros de forma indirecta y cuesta identificarla ya que una 
+  				vez detectada no es fácil cotejarla. Normalmente se encuentra dentro de documentación difícil de localizar: patentes, tesis, artículos 
+  				científicos, actas de congresos especializados, “papers”, etc.
+  			</para>
+  			<informalfigure xreflabel="Fig 8">
+			  	<mediaobject>
+			  		<imageobject>
+			  			<imagedata fileref="resource/INF-4-010.jpg" />
+			  		</imageobject>
+			  		<caption>
+			  			<para>Fuente: Jokoviak 1992.</para>
+			  		</caption>
+			  	</mediaobject>
+		  	</informalfigure>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Latente.</emphasis> Se encuentra disgregada y no es de difícil localización, pero sí es complicado unificarla. 
+  				Suele aparecer en fuentes diferentes y con formatos diversos. Se puede utilizar para documentar el estado de la técnica, sin hacer un 
+  				análisis profundo de los resultados obtenidos. Para localizar información de este tipo podemos recurrir a los clientes, a bases de 
+  				datos de proyectos de I+D, a buscadores especializados, foros, etc.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Del entorno.</emphasis> De carácter generalista, de poco valor para la estrategia de la empresa, pero que 
+  				marca una pauta o ayuda a ver la tendencia del entorno. Está formada por noticias de prensa, novedades de las ferias, catálogos de 
+  				proveedores, etc.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		<emphasis role="strong">Alfons Cornella</emphasis> cita a Jakobiak cuando establece una tipología de la información que denomina crítica, y 
+  		que está formada por los siguientes tipos: científica, técnica, tecnológica, técnico-económica, jurídica y reglamentaria, de entorno y 
+  		seguridad, e información cualitativa y general.
+  	</para>
+  	<section xml:id="ch04c1">
+  		<title>Información externa (modelo de Laudon y Laudon)</title>
+  		<para>
+  			Entre los estudios para clasificar la información del entorno de la empresa destaca, también, la clasificación de Laudon y Laudon que 
+  			sirve, además, para estructurar la captura y absorción de información.
+  		</para>
+  		<para>
+  			Así, identifican dos entornos, inmediato y remoto:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">El entorno inmediato,</emphasis> lo conforman los activos que una empresa trata a diario, como clientes, 
+  					distribuidores, competidores, proveedores, financiadores y reguladores.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">El entorno remoto</emphasis>, está formado por aquellos elementos que una empresa debe tener en cuenta 
+  					para controlar el entorno en el que se encuadra, y que está formado por la información sobre la situación política, la sociedad, 
+  					los cambios tecnológicos o la evolución económica.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  	</section>
+  	<section xml:id="ch04c2">
+  		<title>Información interna</title>
+  		<para>
+  			Alfons Cornella (1994, 104) destaca dos aspectos a tener en cuenta a la hora de acometer el análisis de la información interna y 
+  			sus repercusiones sobre la competencia de la empresa. Por un lado distingue entre la información operacional, aquella que se genera 
+  			por el propio funcionamiento rutinario de la empresa y los conocimientos o <foreignphrase lang="en">Know-how</foreignphrase>, que no son 
+  			otra cosa sino el resultado de la integración de la información interna y externa y las capacidades creativas de los miembros de la empresa. 
+  			En segundo lugar, afirma que la información tiene sentido sólo cuando alguien la usa para algo.
+  		</para>
+  		<para>
+  			Aunque resulta obvio que todos los miembros de una empresa utilizan información en mayor o menor medida, la mayoría de las investigaciones 
+  			sobre el uso de la información interna de las empresas, se han centrado en el estudio del comportamiento de los directivos (McKinnon, 1992). 
+  			Ello se debe a que una de las características de la gestión de una empresa según Forrester (1968) es la de convertir información en acción en 
+  			el proceso de toma de decisiones, actividad que desarrollan por excelencia los directivos.
+  		</para>
+  		<para>
+  			Estas consideraciones permiten enfocar el estudio de la información interna de una empresa como recurso competitivo, sobre la base de cómo es 
+  			utilizada dicha información por sus directivos en el desempeño de sus tareas directivas, actividades todas ellas que involucran el manejo de 
+  			información.
+  		</para>
+  	</section>
+  </section>
+  <section xml:id="ch04d">
+  	<title>Las fuentes de información de una empresa</title>
+  	<para>Tipos de fuentes de información</para>
+	<para>
+		Las principales fuentes de información que pueden alimentar la función de vigilancia tecnológica son:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				los contactos directos personales con los competidores, proveedores, centros de investigación, universidades, etc...,
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				la participación en coloquios, congresos y otras manifestaciones científicas,
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				las revistas especializadas,
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				las patentes como sistemas de información ya que reflejan cuales son las grandes tendencias las bases de datos.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<para>(P. Morcillo Revista Madri+d Número 17, junio- julio 2003)</para>
+	<informalfigure xreflabel="Fig 9">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-011.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>Fuente: Clasificación de Juan Carlos Vergara..</para>
+	  		</caption>
+	  	</mediaobject>
+  	</informalfigure>
+  	<informalfigure xreflabel="Fig 10">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-012.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch04e">
+  	<title>Diseño de un sistema de VT en una empresa<footnote><para>Para ver otro diseño: León Aliz, T; Diseño e implementación de un Sistema de 
+  		Vigilancia Tecnológica en una empresa de escasos recursos, Congreso Internacional de Información info 2004 En 
+  		<link xl:href="http://www.bibliociencias.cu/gsdl/cgi-bin/library?e=d-000-00—-0eventos—00-0-0—0prompt-10—-4———0-1l—1-es-50—-20-about—-00031-001-1-0utfZz-8-00&amp;a=d&amp;c=eventos&amp;cl=CL1.4&amp;d=HASH63935b5e7ca3232eaa7606"/> 
+  		[Consultado el 3 de septiembre de 2009].</para></footnote>  		
+  	</title>
+  	<para>
+  		Antes de iniciar cualquier intento de diseño es conveniente plantearse, a modo de reflexión, las siguientes preguntas:
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				¿Cuál es el objeto de la vigilancia?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Qué debemos vigilar? ¿Qué informaciones buscar?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Dónde localizarlas?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Cómo tratar y organizar la información?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿ A quién comunicar la información en la empresa?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Cómo promover la implicación de todo el personal.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Qué recursos vamos a destinar?
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Las respuestas a estas preguntas deben plasmarse en el manual de vigilancia, completando el contenido de las acciones o etapas descritas en 
+  		el esquema inicial. En el manual se recogen los objetivos, las fuentes, los recursos y el proceso operativo de la vigilancia, constituyendo 
+  		en cierta medida «las instrucciones de uso» del sistema, adaptadas a las especificidades de la empresa.
+  	</para>
+  	<para>
+  		Los Factores Críticos de Vigilancia son aquellos aspectos críticos de los que depende la buena marcha de la empresa”. Son inherentes al 
+  		sector de actividad, dependen de los objetivos y la estrategia de la empresa, son variables en el tiempo y tienen un carácter arborescente.
+  	</para>
+  	<para>
+  		Las actividades posteriores a la definición de los FCV deben ser en su orden:
+  	</para>
+  	<orderedlist numeration="loweralpha">
+  		<listitem>
+  			<para>
+  				Identificar recursos de información.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Definir el plan y realizar el manual de vigilancia tecnológica.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Constituir el grupo de trabajo, asignar funciones, motivarlos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Entrenarlos
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Evaluar el funcionamiento.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<para>
+  		Las <emphasis role="strong">fases de la vigilancia tecnológica</emphasis> según la Norma UNE 166.002 son:
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Identificación de los <emphasis>factores críticos de vigilancia</emphasis>, las cuestiones externas a la organización cuya 
+  				evolución es crucial para su competitividad: tecnologías emergentes, competidores actuales y potenciales, desarrollo de los 
+  				mercados y del entorno.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de las <emphasis>fuentes o tipos de información</emphasis> relevante para seguir los factores críticos de vigilancia: 
+  				formales (patentes, prensa, bases de datos, informes, publicaciones...) o informales (conversaciones, apuntes, reuniones, congresos, 
+  				ferias, exposiciones, encuestas...).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Elección de los <emphasis>medios de acceso y seguimiento</emphasis> de las fuentes de información, en muchos casos mediante software 
+  				especializado o sistemas y servicios automatizados: control de estudios e informes de mercado, vigilancia de prensa, servicios de bases 
+  				de datos, monitorización y rastreo de internet, etc.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis>Ejecución regular</emphasis> de la búsqueda de información, mediante una estrategia sujeta a revisión constante.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Análisis, evaluación y organización, <emphasis>puesta en valor, de la información</emphasis> obtenida, para sacar conclusiones útiles 
+  				a la organización, en muchos casos también mediante software de análisis, tratamiento y presentación de datos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis>Difusión selectiva de la información</emphasis> elaborada, por los canales y a las personas adecuadas.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  </section>
+  <section xml:id="ch04f">
+  	<title>Principios básicos de un sistema de VT (<phrase>Fuente: <link xl:href="http://www.emotools.com"/></phrase>)</title>
+  	<para>
+  		Un sistema organizado e integrado en los “hábitos” de funcionamiento de la organización, de una manera “natural”.
+  	</para>
+  	<para>
+  		Requiere un enfoque multidisciplinar y no acotar la visión a un departamento.
+  	</para>
+  	<para>
+  		La vigilancia es tarea de todos: cualquier empleado puede aportar información de valor. Esto lleva consigo que la gente adquiera una “cultura de la 
+  		alerta. La eficacia (y eficiencia) de un sistema de V.T. se multiplica con una adecuada “cultura de la información” en todo el personal. La 
+  		participación activa de todo el personal se consigue con “incentivos” claros que premien la cantidad y calidad de información aportada (no 
+  		basta con “cultura”).
+  	</para>
+  	<para>
+  		Es fundamental definir las prioridades informativas: ¡Quien no sabe lo que busca, no sabe lo que encuentra! Esto es de sentido común. A veces la 
+  		serendipia nos puede dar un buen resultado pero es poco probable.
+  	</para>
+  	<para>
+  		La V.T. debe impulsarse al más alto nivel, desde los máximos directivos de la organización, que deben dar el ejemplo como “proveedores” y “usuarios” 
+  		de información del sistema, pero debe tener un “dinamizador”. Una persona que se encargue de dinamizar, canalizar y asesorar al resto de personal.
+  	</para>
+  	<para>
+  		Es imprescindible crear una “central de análisis” que reúna, procese y distribuya toda la información. Así como de que centralice la realización de 
+  		Informes de VT y desarrolle el canal de comunicación de la información asi como de las peticiones de búsqueda.
+  	</para>
+  	<para>
+  		El verdadero reto y valor añadido está en la selección de la información valiosa: ¡evitar la infoxicación! Para ello, se deben definir 
+  		“criterios de búsqueda”.
+  	</para>
+  	<para>
+  		Evitar la “miopía sectorial”: las mayores amenazas pueden venir de otros sectores.
+  	</para>
+  	<para>
+  		La vigilancia cuesta dinero, por tanto, necesita un presupuesto específico para que se pueda planificar y realizar de modo ordenado.
+  	</para>
+  	<para>
+  		Hay que estimular las redes externas de colaboradores para integrarlos al sistema.
+  	</para>
+  	<informalfigure xreflabel="Fig 11">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-013.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+</chapter>

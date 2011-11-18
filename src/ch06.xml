@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch06"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Las patentes</title>
+  <blockquote>
+  	<para>
+  		Cuando encuentras un diamante que no es de nadie, es tuyo. Cuando encuentras una isla que no es de nadie, es tuya. Cuando 
+  		eres el primero en tener una idea, la haces patentar, es tuya. Yo poseo las estrellas porque jamás, nadie antes que yo 
+  		soñó poseerlas
+  	</para>
+  	<attribution>
+  		“El Principito” Antoine de Saint-Exupéry (fuente de la cita: OEPM)
+  	</attribution>
+  </blockquote>
+  <section xml:id="ch06a">
+  	<title>Las patentes como proceso/trámite</title>
+  	<para>
+  		Las patentes constituyen uno de los elementos jurídicos dirigidos a promover el desarrollo tecnológico.
+  	</para>
+  	<para>
+  		Permiten a los creadores de nuevas tecnologías apropiarse de los resultados de sus esfuerzos inventivos, y los protege 
+  		de la competencia de potenciales usuarios de las mismas tecnologías.
+  	</para>
+  	<para>
+  		Es un poderoso instrumento comercial para que las empresas obtengan exclusividad sobre un nuevo producto o proceso que 
+  		da una sólida posición en el mercado y ventaja competitiva con un aumento de los beneficios o del rendimiento de las 
+  		inversiones.
+  	</para>
+  	<para>
+  		Participación en nuevos mercados.
+  	</para>
+  	<para>
+  		Reducción de los riesgos de infracción.
+  	</para>
+  	<para>
+  		Es una imagen positiva para una empresa ya que patente se asocia con i+d o con innovación.
+  	</para>
+  	<para>
+  		Incremento de la capacidad para obtener financiamiento.
+  	</para>
+  	<informalfigure xreflabel="Fig 24">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-027.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		La empresa L´Oreal utiliza el número de patentes como reclamo publicitario para demostrar la capacidad de investigación 
+		que tienen y lo punteros que son en su sector.
+	</para>
+	<para>
+		Algunos datos a tener en cuenta:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>Solicitud de Patentes en España.</para>
+		</listitem>
+		<listitem>
+			<para>Patentes del año 2006: 21.486 patentes.</para>
+		</listitem>
+		<listitem>
+			<para>Patentes del año 2007: 26.621 patentes.</para>
+		</listitem>
+	</itemizedlist>
+	<informalfigure xreflabel="Fig 25">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-028.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>Fuente: <link xl:href="http://patentados.com/"/></para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+  </section>
+  <section xml:id="ch06b">
+  	<title>Las patentes como fuentes de informacón</title>
+  	<para>
+  		“Las patentes no sólo son útiles como instrumento de protección, sino también como fuente de información técnica para las empresas 
+  		y grupos de investigación que poseen capacidad para desarrollar tecnología propia. Los informes tecnológicos de patentes (ITP) 
+  		también son una buena fuente de información para todo tipo de empresas que quieren evitar infringir patentes anteriores cuando 
+  		introducen sus productos en el mercado, para aquellas otras que optan por trabajar con tecnología del dominio público, o para 
+  		las que prefieren detectar tecnologías de las que ser licenciatarios. Pueden además proporcionar información sobre las 
+  		actividades de la competencia. Frecuentemente son solicitados para analizar la singularidad de una tecnología concreta, ya que 
+  		la información técnica contenida en las patentes permite conocer el estado de la técnica existente en un sector técnico 
+  		concreto y puede, por tanto, ser determinante a la hora de comenzar o replantear un determinado proyecto de investigación, 
+  		evitando así costes innecesarios. Esta es la razón por la que tales informes tecnológicos deberían resultar de gran interés 
+  		para las empresas e imprescindibles para universidades y centros públicos de investigación en las fases incipientes de 
+  		planificación de nuevos proyectos de investigación”. (...).
+  	</para>
+  	<para>
+  		Interpretar la información técnica y jurídica que contiene una patente no es tarea sencilla. Aunque una patente, ya sea 
+  		alemana, inglesa, norteamericana o de cualquier otro país, siempre presenta la misma estructura, y esto claramente simplifica 
+  		su consulta, su contenido frecuentemente no resulta claro para alguien que no está habituado a utilizar este tipo de 
+  		documentos. Por otra parte, localizar aquellas patentes que por un motivo u otro estén relacionadas con una cuestión técnica 
+  		que le puede surgir a una empresa en un momento dado, a menudo puede resultar más complejo de lo inicialmente previsto, ya 
+  		que requiere que quien haga la búsqueda, además de entender el problema técnico que se plantea, ha de conocer bien el contenido
+  		y funcionamiento de las bases de datos existentes en el mundo sobre patentes. Los informes tecnológicos de patentes pretenden 
+  		ahorrar a la empresa estas tareas de búsqueda e interpretación de patentes y ofrecer una información suficientemente clara con 
+  		relación a la cuestión técnica planteada.
+  	</para>
+  	<para>
+  		Esta es la razón de que tales informes contengan un análisis detallado de las patentes y otros tipos de documentos publicados 
+  		en el mundo relativos al tema en cuestión, incluyendo además las copias de las patentes y otros documentos considerados por 
+  		el técnico responsable del mismo especialmente significativos; también incorporan los listados de referencias bibliográficas 
+  		de todas las patentes recuperadas, ya que pueden ofrecer información adicional de interés. Hay que tener presente que las 
+  		patentes, desde que se solicitan hasta que se publican, al menos dieciocho meses más tarde, no son consultables.
+  	</para>
+  	<para>
+  		Los Informes Tecnológicos de Patentes, Fundacion Cotec, pp. 34-35.
+  	</para>
+  	<para>
+  		Disponible desde <link xl:href="http://sites.google.com/site/lararey/patentes"/>
+  	</para>
+  	<para>
+  		No obstante, este uso de las patentes lleva asociado de forma implícita un conjunto de dificultades que es necesario tener 
+  		en cuenta:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Sólo una parte de las innovaciones se patentan, ya que hay otros mecanismos diferentes para proteger las invenciones, 
+  				por ejemplo, el secreto industrial.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Algunas invenciones no son patentables, o porque la legislación las excluye expresamente o porque no cumplen alguno 
+  				de los requisitos necesarios (novedad, actividad inventiva, aplicación industrial).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				En determinados sectores el ciclo de vida de los productos es muy corto y no es interesante patentar<footnote>
+  				<para>HIDALGO-NUCHERA, Antonio; IGLESIAS-PRADAS, Santiago y HERNÁNDEZ-GARCÍA, Ángel: “Utilización de las bases de 
+  					datos de patentes como instrumento de vigilancia tecnológica”. El profesional de la información, 2009, 
+  					septiembre-octubre, v. 18, n. 5, pp. 511-519.</para></footnote>.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>Ventajas de patentar:</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Promueve la transferencia de tecnología y la inversión
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Fomenta la investigación y el desarrollo en las universidades y en los centros de investigación.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Genera nuevas tecnologías y empresas
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Las empresas acumulan patentes y las utilizan en actividades de concesión de licencias, empresas conjuntas y otras 
+  				iniciativas de generación de ingresos.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>Ventajas de utilizar las patentes como fuentes de información:</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Identificación de socios técnicos comerciales.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de mercados tecnológicos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Retribución económica para sus desarrolladores.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Identificación de competidores comerciales.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Protección de patrimonios tecnológicos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Evitar invasión de derechos adquiridos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Dinamismo en el proceso de transferencia de tecnología.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Propiciar licencias y sus consiguientes royalties de derechos tecnológicos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Resolver problemas técnicos en las empresas.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Encontrar soluciones tecnológicas en sectores productivos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Apoyar proyectos de investigación y mejoras tecnologías ya existentes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Evitar esfuerzos innecesarios en la solución de problemas ya resueltos.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		El análisis de los datos bibliográficos extraídos de un documento de patente puede proporcionar información muy valiosa. Por 
+  		ejemplo, un análisis de la relación entre la tasa de denegación de patentes frente al número de solicitudes realizadas y 
+  		sobre las causas que provocaron dicha denegación (qué requisito de patentabilidad falló), puede aportar una excelente información
+  		acerca de hasta qué punto las empresas, las universidades y los centros de investigación llevan a cabo labores de vigilancia 
+  		tecnológica y cómo utilizan esta información antes de aportar fondos a proyectos de investigación<footnote><para>Ver nota 
+  		anterior</para></footnote>.
+  	</para>
+  	<section xml:id="ch06b1">
+  		<title>Trucos para entender un poquito mejor las patentes</title>
+  		<para>
+  			No todas las patentes tienen el mismo valor económico. Las consideradas de mayor valor comercial son las patentes triádicas, 
+  			es decir, las concedidas con efectos conjuntos en las oficinas europeas, estadounidenses y japonesas.
+  		</para>
+  		<para>
+  			Está generalmente admitido que el número de solicitudes de patentes originadas en un país constituye un indicador bastante 
+  			significativo de la situación de su sistema de ciencia-tecnología. Al mismo tiempo, existe entre los medios especializados 
+  			el convencimiento de que el número de solicitudes de patentes depositadas por españoles o residentes en España es menor de 
+  			lo que se correspondería con su nivel de desarrollo económico o industrial (Fuente Informe Cotec 2007 sobre Tecnología e 
+  			Innovación en España <link xl:href="http://www.cotec.es"/>).
+  		</para>
+  	</section>
+  	<section xml:id="ch06b2">
+  		<title>Estructura de los documentos de Patente</title>
+  		<section>
+  			<title>IET (Informe del Estado de la Técnica)</title>
+  			<para>
+  				Estudio que indica el grado de novedad y de actividad inventiva de la solicitud de patente. Nunca valora la utilidad 
+  				o posibles mejoras técnicas que la invención suponga.
+  			</para>
+  			<para>
+  				Se hace comparando la solicitud con otras patentes (nacionales y extranjeras) y con literatura no patente (técnica y 
+  				científica) que reflejen el estado de la técnica.
+  			</para>
+  			<para>
+  				Hace referencia al sector técnico de la invención según lo establecido en la C.I.P. (Clasificación Internacional de Patentes).
+  			</para>
+  			<para>
+  				Valoración de la novedad y la actividad inventiva respecto las reivindicaciones:
+  			</para>
+  			<itemizedlist>
+  				<listitem>
+  					<para>
+  						Documento A: la invención reivindicada es nueva y tiene actividad inventiva
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Documento X: la invención reivindicada no es nueva
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Documento Y: la invención reivindicada no tiene actividad inventiva (normalmente con dos documentos).
+  					</para>
+  				</listitem>
+  			</itemizedlist>
+  			<para>
+  				El informe sobre el estado de la técnica es obligatorio. En él se recogen una serie de documentos relevantes clasificados
+  				según ésta categoría. Esta es la manera en que los documentos citados afectan al documento estudiado:
+  			</para>
+  			<variablelist>
+  				<varlistentry>
+  					<term>X</term>
+  					<listitem>
+  						<para>
+  							El documento por si sólo afecta a la novedad o a la actividad inventiva.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>Y</term>
+  					<listitem>
+  						<para>
+  							varios documentos Y combinados afectan a la actividad inventiva (si dicha combinación es evidente para un 
+  							experta en la materia)
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>A</term>
+  					<listitem>
+  						<para>
+  							Documento relacionado con el estudiado, que no afecta a la actividad inventiva.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>O</term>
+  					<listitem>
+  						<para>
+  							Divulgación no escrita: descripción oral, utilización o cualquier otro medio.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>P</term>
+  					<listitem>
+  						<para>
+  							Documento publicado antes de la presentación de la solicitud, pero después de la fecha de prioridad del 
+  							documento estudiado. Se indica si es X, Y o A.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>E</term>
+  					<listitem>
+  						<para>
+  							Documento publicado después de la presentación de la solicitud del documento estudiado, aunque solicitado 
+  							antes que éste, y que afecta a la novedad.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  			</variablelist>
+  			<para>
+  				Las categorías O, P y E son raramente utilizadas.
+  			</para>
+  		</section>
+  		<section>
+  			<title>Adición</title>
+  			<para>
+  				La adición de patente es gratuita. Expira con la patente principal. Compensa publicarla como patente propiamente dicha, 
+  				cuando la primera lleva mucho tiempo publicada.
+  			</para>
+  		</section>
+  		<section>
+  			<title>Familia de patentes</title>
+  			<para>
+  				Una misma invención puede estar patentada, p.ej., en 20 países, lo que da lugar a 20 títulos diferentes de propiedad industrial, 
+  				es decir, 20 documentos de patente que son parte de la misma “familia”.
+  			</para>
+  		</section>
+  		<section>
+  			<title>Nomenclatura</title>
+  			<para>
+  				Nomenclatura que aparece al lado del número de Solicitud de patente o al lado del número de la patente.
+  			</para>
+  			<variablelist>
+  				<varlistentry>
+  					<term>A1</term>
+  					<listitem>
+  						<para>
+  							Solicitud de patente con informe sobre el estado de la técnica.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>A2</term>
+  					<listitem>
+  						<para>
+  							Solicitud de patente sin informe sobre el estado de la técnica.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>R</term>
+  					<listitem>
+  						<para>
+  							Informe sobre el estado de la técnica publicado separadamente.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>B1</term>
+  					<listitem>
+  						<para>
+  							Patente con informe sobre el estado de la técnica.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>B2</term>
+  					<listitem>
+  						<para>
+  							Patente con examen previo.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>A6</term>
+  					<listitem>
+  						<para>
+  							Patente sin informe sobre el estado de la técnica.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>T1</term>
+  					<listitem>
+  						<para>
+  							Traducción de las reivindicaciones con dibujos de solicitudes europeas (antiguo A4).
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>T2</term>
+  					<listitem>
+  						<para>
+  							Traducción revisada de las reivindicaciones con dibujos de solicitudes europeas.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>T3</term>
+  					<listitem>
+  						<para>
+  							Traducción de patente europea concedida (antiguo B3).
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  				<varlistentry>
+  					<term>T4</term>
+  					<listitem>
+  						<para>
+  							Traducción revisada de patente europea concedida.
+  						</para>
+  					</listitem>
+  				</varlistentry>
+  			</variablelist>
+  		</section>
+  		<section>
+  			<title>Fecha de prioridad</title>
+  			<para>
+  				Quien hubiere presentado regularmente una solicitud de patente de invención, de modelo de utilidad, de certificado 
+  				de utilidad o de certificado de inventor en alguno de los países de la Unión para la Protección de la Propiedad 
+  				Industrial o sus causahabientes gozarán, para la presentación de una solicitud de patente en España para la misma 
+  				invención, del derecho de prioridad establecido en el Convenio de la Unión de París para la Protección de la 
+  				Propiedad Industrial.
+  			</para>
+  			<para>
+  				Es decir, se mantiene como fecha de prioridad la del país de origen.
+  			</para>
+  		</section>
+  		<section>
+  			<title>Búsqueda de citas</title>
+  			<para>
+  				Permiten localizar documentos relacionados entre sí, y del que pueden considerarse distintos tipos de citas:
+  			</para>
+  			<itemizedlist>
+  				<listitem>
+  					<para>
+  						Patentes citadas en la memoria.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Patentes de la misma familia y sus informes.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Citas del examinador en el informe sobre el estado de la técnica.
+  					</para>
+  				</listitem>
+  				<listitem>
+  					<para>
+  						Patentes que citan una patente.
+  					</para>
+  				</listitem>
+  			</itemizedlist>
+  		</section>
+  	</section>
+  </section>
+  <section xml:id="ch06c">
+  	<title>Patentes-fuentes de información tecnológica</title>
+  	<para>
+  		¿Por qué las patentes son una excelente fuente de información tecnológica?
+  	</para>
+  	<orderedlist>
+  		<listitem>
+  			<para>
+  				Los documentos de patente tienen una estructura uniforme y armonizada internacionalmente.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				La información que contienen es inédita.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Referencian tanto al investigador como el centro o empresa donde se ha realizado el proyecto que materializa la patente.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Muchas de ellas tiene un Informe sobre el estado de la técnica (sólo si el sistema de Concesión lo contempla), donde se recoge el 
+  				grado de novedad y de actividad inventiva de la solicitud de patente en función de las reivindicaciones (las reivindicaciones es 
+  				la parte donde se describe lo que realmente de quiere proteger).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Una clasificación internacional con alrededor de 70 000 códigos tecnológicos.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Fecha de prioridad en la que se recoge cuándo se ha solicitado la protección de la innovación (lo que permite estudiar 
+  				evoluciones).
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				País de prioridad: Permite conocer dónde se están generando las innovaciones.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Países de extensión: Se localizan así los países en los que se están protegiendo las invenciones.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  	<informalfigure xreflabel="Fig 26">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-029.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>Fuente: OEMP</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Otros documentos relacionados con un documento de patente
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Documento de patente propiamente dicho.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Patentes que cita el solicitante en la memoria.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Patentes de la misma familia y sus informes.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Citas del examinador en el Informe del Estado de la Técnica.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Patentes que citan a la que estamos consultando.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<para>
+		La gestión de la innovación tecnológica además de la actividad patentadora requiere una constante actualización de 
+		conocimientos a través de los cuales podemos conocer y vigilar el comportamiento innovador de los competidores. Estos 
+		objetivos justifican una búsqueda de patentes (Morin 1989).
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Conocimiento del entorno tecnológico en el que se mueve la empresa.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Vigilancia de la capacidad de avance tecnológico de la competencia.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Planificación de la innovación tecnológica: Según un estudio de la DG XIII de la CE, el 30% del gasto de I+D 
+				en el mundo se destina a proyectos de investigación sobre innovaciones ya patentadas.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Resolución de un problema técnico concreto.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Análisis de la patentabilidad de los desarrollos propios.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Análisis de riesgos de infracción de patentes.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Valoración de la tecnología sobre la que se discute en contrato de licencia.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<informalfigure xreflabel="Fig 27">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-031.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 28">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-030.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<informalfigure xreflabel="Fig 29">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-032.jpg" />
+	  		</imageobject>
+	  		<caption>
+	  			<para>
+	  				Fuente: OEMP. <link xl:href="http://www.pepm.es/cs/OEPMSite/contenidos/ponen/gip06/miercoles/miercoles4.pdf"/>
+					[vinculo consultado por última vez el 11 de septiembre de 2009]
+	  			</para>
+	  		</caption>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Para saber más sobre este tema
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				Sobre patentes.- <link xl:href="http://wikipolitecnica.pbworks.com/Patentes"/>.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Sobre las patentes. Patentes y transferencia de tecnología, Numero 49, octubre 2008.- 
+				<link xl:href="http://www.madrimasd.org/revista/revista49/editorial/editorial.asp"/>
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Díaz Pérez M, Orea Igarza U, Cordero Machado E. Los análisis de patentes como base para la toma de decisiones en 
+				los proyectos de investigación.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Estudio de un caso. Acimed 2007;16(2).
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Las patentes como fuente de informacion (OEPM).
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				Borja González-Albo Manglano; Mª Ángeles Zulueta: Estudio comparativo de bases de datos de patentes en internet, 
+				en Anales de Documentacion, Nº 10, 2007, pp. 145-162.
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				López López, Pedro; García-Escudero, Patricia: Literatura de patentes: utilidad y fuentes de información, En: Boletín 
+				de la ANABAD, ISSN 0210-4164, Tomo 50, Nº 1, 2000, pp. 107-128.
+			</para>
+		</listitem>
+	</itemizedlist>
+	<section xml:id="ch06c1">
+		<title>Sistemas gratuitos de búsqueda de patentes</title>
+		<para>
+			<emphasis role="strong">Espacenet</emphasis>: Base de la Oficina Europea de Patentes. Contiene más de 60 millones de documentos
+			de 71 países y 10 campos de búsqueda.
+		</para>
+		<para>
+			<emphasis role="strong">Depatisnet</emphasis>: Base de la Oficina Alemana de Patentes. Contiene más de 20 millones de 
+			documentos de 10 países y 30 campos de búsqueda. Permite buscar en el texto completo en algunas colecciones.
+		</para>
+		<para>
+			<emphasis role="strong">Free Patents On-line</emphasis>: Sistema que consulta de manera conjunta las colecciones de 
+			patentes US, EP, JP y PCT.
+		</para>
+		<para>
+			<emphasis role="strong">Patents Lens</emphasis>: Sistema que consulta de manera conjunta las colecciones de patentes US, EP, PCT y AU.
+		</para>
+		<para>
+			<emphasis role="strong">Prior smart</emphasis>: Sistema que consulta de manera conjunta de los servidores ESPACENET, LATIPAT, USAPAT, PATENTSCOPE; PATENT LENS.
+		</para>
+		<para>
+			<emphasis role="strong">Patent scope</emphasis>: Base de la OMPI con solicitudes PCT.
+		</para>
+	</section>
+	<section xml:id="ch06c2">
+		<title>Sistemas de pago</title>
+		<para>
+			<emphasis role="strong">Derwent Patent Index</emphasis>: Base de datos con información de patentes de más de 40 países. Es propiedad del grupo Thomson y 
+			accesible a través de diversos distribuidores.
+		</para>
+		<para>
+			<emphasis role="strong">Delphion</emphasis>: Sistema integrado de búsqueda de patentes, incluye el acceso al Derwent Patent Index y a las colecciones de 
+			patentes US, EP; DE, JP, CH, WO e INPADOC. Es Propiedad del grupo Thomson.
+		</para>
+		<para>
+			<emphasis role="strong">Thomson Innovation</emphasis>: Sistema integrado de búsqueda de patentes, que incluye además de las colecciones que se indican en 
+			DELPHION el acceso a publicaciones científicas.
+		</para>
+		<para>
+			<emphasis role="strong">Total Patent</emphasis>: Sistema integrado de la empresa LEXIS-NEXIS. Las colecciones son algo diferentes a las de Thomson 
+			Innovation.
+		</para>
+		<para>
+			<emphasis role="strong">SumoBrain</emphasis>: Sistema integrado de consulta, incluye textos completos. Desarrollado por el mismo equipo que el servicio 
+			gratuito Free Patents on line.
+		</para>
+		<para>
+			Cada uno de estos sistemas posee unas características técnicas diferentes, por lo que a la hora de evaluar cuál es el 
+			mejor habría que ponderar toda una serie de criterios: cobertura, campos de búsqueda, posibilidad de acceder a los 
+			textos completos, exportación de resultados, RSS, etc.
+		</para>
+	</section>
+  </section>
+</chapter>

@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bibliography xml:id="bib"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  	<title>Bibliografía</title>
+  	<biblioentry>
+  		<title>Blog La Cofa</title>
+  		<bibliosource class="uri">
+  			<link xl:href="http://www.lacofa.es/index.php/tecnologias/futuro-de-internet/espectativas-de-evolucion-en-los-buscadores"/>
+  		</bibliosource>
+  		<bibliomisc>[Consulta: 08-09-2009]</bibliomisc>
+  	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname><surname>BRESSÁN</surname><firstname>G.</firstname></personname>
+		</author>	
+		<title>Almacenes de datos y minería de datos.</title>
+		<pubdate>2003</pubdate> 
+		<bibliosource class="uri">
+			Disponible en:
+			<link xl:href="http://www/banners/interstitial.html?http://exa.unne.edu.ar/"/>
+		</bibliosource> 
+		<bibliomisc>
+			<phrase>
+				[Consultado: 29 de julio de 2009].
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname><surname>BRESSÁN</surname><firstname>G.</firstname></personname>
+		</author>
+		<title>Vigilancia Tecnológica e Inteligencia Competitiva</title>
+		<subtitle>usos y aplicaciones en la empresa navarra, 2005</subtitle>
+		<bibliosource class="uri">
+			En: <link xl:href="http://www.navactiva.com/web/es/documentacion?tag=210"/> 
+		</bibliosource>
+		<bibliomisc>
+			<phrase>
+				[consultado el 3 de septiembre de 2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					CALDERÓN
+				</surname>
+				<firstname>
+					Andoni
+				</firstname>
+			</personname>
+		</author>
+		<title>La evaluación de páginas web</title>
+		<bibliosource class="uri">
+			<link xl:href="http://observatorio.cnice.mec.es/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=334"/>
+		</bibliosource>
+		<bibliomisc>
+			<phrase>
+				[consulta 11/09/09]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					CALDERÓN
+				</surname>
+				<firstname>
+					Andoni
+				</firstname>
+			</personname>
+		</author>
+		<title>La Búsqueda Semántica</title>
+		<bibliosource class="uri">
+			<link xl:href="http://weblogs.madrimasd.org/sistemas_inteligentes/archive/2008/05/02/90703.aspx"/>
+		</bibliosource>
+		<bibliomisc><phrase>[consulta 30-08-09]</phrase></bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					CAMPAÑA AGUILERA
+				</surname>
+				<firstname>
+					Fermín
+				</firstname>
+			</personname>
+		</author>
+		<title>Diseño y desarrollo de un sistema de vigilancia tecnológica</title>
+		<bibliomisc><phrase>proyecto fin de carrera</phrase></bibliomisc>
+		<publisher>
+			<publishername>
+				UPC
+			</publishername>
+			<pubdate>2005</pubdate>
+		</publisher>
+		<bibliosource class="uri">
+			<link xl:href="[http://bibliotecnica.upc.es/PFC/arxius/migrats/36419-2.pdf]"/>
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname><surname>CANCIO MARTÍNEZ</surname><firstname>Elena I.</firstname></personname>
+			</author>
+			<author>
+				<personname><surname>OVIEDO RIVERO</surname><firstname>Iradia</firstname></personname>
+			</author>
+			<author>
+				<personname><surname>ROMEO LAMEIRAS</surname><firstname>Eva</firstname></personname>
+			</author>
+			<author>
+				<personname><surname>LABRADA LABRADA</surname><firstname>Jorge</firstname></personname>
+			</author>
+		</authorgroup>
+		<title>Vigilancia Tecnológica herramienta en la gestión de información y el conocimiento en estudios energéticos</title>
+		<subtitle>Aplicación práctica en investigaciones sobre el uso del hidrógeno como fuente de energía</subtitle>
+		<bibliomisc><phrase>Cuba</phrase></bibliomisc>
+		<pubdate>2006.</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>CODINA</surname><firstname>Lluis</firstname>
+			</personname>
+		</author> 
+		<title>
+			Conferencia inaugural de los Estudios de Información y Documentación de la UOC del segundo semestre del curso 2001-2002
+		</title>
+		<pubdate>
+			(15 de septiembre de 2001)
+		</pubdate>
+		<bibliosource class="uri">
+			<link xl:href="http://www.uoc.es/web/esp/art/uoc/escorsa0202/escorsa0202_imp.html"/>
+		</bibliosource>
+		<bibliomisc>
+			<phrase>
+				[vínculo visitado en agosto de 2009].
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>CODINA</surname><firstname>Lluis</firstname>
+			</personname>
+		</author>
+		<title>
+			Internet invisible y web semántica
+		</title>
+		<subtitle>
+			¿el futuro de los sistemas de información en línea?
+		</subtitle> 
+		<citetitle pubwork="journal">Revista tradumàtica Traducció i Technologies de la Informació i la Comunicació</citetitle>
+		<issuenum>Número 2</issuenum>
+		<bibliomisc>
+			<phrase>
+				La Documentació
+			</phrase>
+		</bibliomisc>
+		<pubdate>
+			Novembre 2003
+		</pubdate> 
+		<bibliosource class="uri">
+			<link xl:href="htp://www.fti.uab.es/tradumatica/revista"/> 
+		</bibliosource>
+		<biblioid class="issn">ISSN 1578-7559.</biblioid>
+	</biblioentry> 
+	<biblioentry>
+		<title>
+			Competitive Intelligence at Procter &amp; Gamble
+		</title>
+		<author>
+			<personname>
+				<firstname>John E.</firstname> <surname>Pepper</surname>
+			</personname>
+		</author> 
+		<citetitle pubwork="journal">
+			Competitive Intelligence Review
+		</citetitle>
+		<volumenum>vol. 10 (4)</volumenum> <issuenum>4-9</issuenum> 
+		<pubdate>(1999)</pubdate>
+		<bibliosource class="uri">
+			[<link xl:href="http://lara.rey.googlepages.com/11.pdf"/>]
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<surname>
+					DELGADO FERNÁNDEZ
+				</surname><firstname>
+					Mercedes
+				</firstname>
+			</author> 
+			<author>
+				<surname>
+					INFANTE ABREU
+				</surname> <firstname>
+					Marta
+				</firstname>
+			</author>
+		</authorgroup> 
+		<title>
+			Vigilancia tecnológica como factor clave para el éxito en la I+D+i 
+		</title><subtitle>
+				aplicación en el ámbito universitario
+			</subtitle> 
+		<pubdate>
+			2009
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<title>FOAF, 2007. The Friend of a Friend (FOAF) Project</title> 
+		<bibliosource class="uri">
+			Sitio Web accesible en: <link xl:href="http://www.foaf-project.org/"/>
+		</bibliosource> 
+		<bibliomisc>
+			<phrase>
+				[consulta: 3/09/09]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					FORNAS CARRASCO
+				</surname> <firstname>
+					Ricardo
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			Criterios para evaluar la calidad y fiabilidad de los contenidos en Internet
+		</title> 
+		<citetitle pubwork="journal">
+			Rev. Esp. Doc. Cient.
+		</citetitle> 
+		<issuenum>
+			26, 1
+		</issuenum> 
+		<pubdate>
+			2003
+		</pubdate>
+		<bibliosource class="uri">
+			En <link xl:href="http://redc.revistas.csic.es/index.php/redc/article/viewFile/226/282"/>
+		</bibliosource> 
+		<bibliomisc>
+			<phrase>
+				[consulta: 07-09 2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					GIMÉNEZ TOLEDO, Elea
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					ROMÁN ROMÁN, Adelaida.
+				</personname>
+			</author>
+		</authorgroup> 
+		<title>
+			Vigilancia tecnológica e inteligencia competitiva
+		</title> 
+		<subtitle>
+			conceptos, profesionales, servicios y fuentes de información
+		</subtitle> 
+		<citetitle pubwork="journal">
+			En: El profesional de la información
+		</citetitle> 
+		<pubdate>
+			2001, mayo
+		</pubdate> 
+		<volumenum>
+			v. 10
+		</volumenum> <issuenum>
+			n. 5
+		</issuenum><pagenums>
+			pp. 11-20
+		</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						HIDALGO-NUCHERA
+					</surname> <firstname>
+						Antonio
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						IGLESIAS-PRADAS
+					</surname> <firstname>
+						Santiago
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						HERNÁNDEZ-GARCÍA
+					</surname> <firstname>
+						Ángel
+					</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Utilización de las bases de datos de patentes como instrumento de vigilancia tecnológica
+		</title> 
+		<citetitle pubwork="journal">
+			El profesional de la información
+		</citetitle><pubdate>
+			2009, septiembre-octubre</pubdate> <volumenum>v. 18</volumenum> <issuenum>n. 5</issuenum> 
+			<pagenums>
+				pp. 511-519
+			</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<title>intec Factor clave para la toma de decisiones estratégicas en las organizaciones</title> 
+		<publisher>
+			<publishername>
+				madri+d
+			</publishername>
+		</publisher>
+		<bibliosource class="uri">
+			[<link xl:href="http://www.madrimasd.org/informacionidi/biblioteca/publicacion/doc/35_INTEC.pdf"/>]
+		</bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<title>
+			La inteligencia competitiva
+		</title> 
+		<subtitle>
+			factor clave para la toma de decisiones estratégicas en las organizaciones
+		</subtitle> 
+		<bibliomisc>
+			<phrase>
+				colección mi+d
+			</phrase>
+		</bibliomisc> <issuenum>nº 35</issuenum>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					LAMARCA LAPUENTE
+				</surname> <firstname>
+					María Jesús
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			Hipertexto
+		</title>
+		<subtitle>
+			El nuevo concepto de documento en la cultura de la imagen
+		</subtitle> 
+		<bibliosource class="uri">
+			<link xl:href="http://www.hipertexto.info/documentos/web_invisib.htm"/>
+		</bibliosource> 
+		<bibliomisc>
+			<phrase>
+				[enlace visitado el 11-09-2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					LEÓN ALIZ
+				</surname><firstname>T.</firstname>
+			</personname>
+		</author> 
+		<title>
+			Diseño e implementación de un Sistema de Vigilancia Tecnológica en una empresa de escasos recursos
+		</title> 
+		<citetitle>
+			Congreso Internacional de Información info 2004
+		</citetitle> 
+		<bibliosource class="uri">
+			en <link xl:href="http://www.bibliociencias.cu/gsdl/cgi-bin/library?e=d-000-00—-0eventos—00-0-0—0prompt-10—-4———0-1l—1-es-50—-20-about—-00031-001-1-0utfZz-8-00&amp;a=d&amp;c=eventos&amp;cl=CL1.4&amp;d=HASH63935b5e7ca3232eaa7606"/>
+		</bibliosource> 
+		<bibliomisc>
+			<phrase>
+				[Consultado el 3 de septiembre de 2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						LEÓN
+					</surname> <firstname>
+						Andrés M.
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						CASTELLANOS
+					</surname><firstname>
+						Óscar F.
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						VARGAS
+					</surname> <firstname>
+						Freddy A.
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<title>
+			Valoración, selección y pertinencia de herramientas de software utilizadas en Vigilancia Tecnológica
+		</title> 
+		<citetitle pubwork="">
+			Revista de Ingenieriae Investigación
+		</citetitle> 
+		<volumenum>vol. 26</volumenum> <issuenm>nº 1</issuenm> <pubdate>
+			abril 2006
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						MALAVER RODRÍGUEZ
+					</surname> <firstname>
+						Florentino
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						VARGAS PÉREZ
+					</surname><firstname>
+						Marisela (ed.)
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<title>
+			Vigilancia tecnológica y competitividad sectorial
+		</title> 
+		<subtitle>
+			lecciones y resultados de cinco estudios
+		</subtitle>
+		<biblioid class="isbn">
+			ISBN: 978-958-44-1156-3
+		</biblioid> 
+		<bibliomisc>
+			<phrase>
+				Bogotá
+			</phrase>
+		</bibliomisc> <pubdate>
+			2007
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						MARTÍNEZ USERO
+					</surname> <firstname>
+						José Ángel
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						SANZ MARTOS
+					</surname> <firstname>
+						Sandra
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<title>
+			A la caza de las patentes
+		</title> 
+		<subtitle>
+			Inteligencia competitiva a través de agentes inteligentes
+		</subtitle>
+		<pubdate>
+			2000
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				MASSÓN-GUERRA, J. L.
+			</personname>
+		</author> 
+		<title>
+			Inteligencia Competitiva
+		</title> 
+		<subtitle>
+			Bases Teóricas y Revisión de Literatura
+		</subtitle><pubdate>
+			(2005)
+		</pubdate>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<honorific>
+						MSc.
+					</honorific> <surname>
+						BOTTA-FERRET
+					</surname><firstname>
+						ELEAZAR
+					</firstname>
+				</personname>
+			</author>  
+			<author>
+				<personname>
+					<honorific>
+						Lic
+					</honorific><surname>
+						CABRERA-GATO
+					</surname><firstname>
+						JANIA E.
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<title>
+			Minería de textos
+		</title> 
+		<subtitle>
+			una herramienta útil para mejorar la gestión del bibliotecario en el entorno digital
+		</subtitle> 
+		<citetitle pubwork="journal">
+			Acimed
+		</citetitle> 
+		<pubdate>
+			2007
+		</pubdate>
+		<issuenum>
+			16 (4)
+		</issuenum>
+		<bibliosource class="uri">
+			<link xl:href="http://bvs.sld.cu/revistas/aci/vol16_4_07/aci051007.html"/>
+		</bibliosource>
+		<bibliomisc>
+			<phrase>
+				[consulta: 3 de agosto de 2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						MUÑOZ DURÁN
+					</surname><firstname>
+						Javier
+					</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>
+						MARÍN MARTÍNEZ
+					</surname><firstname>
+						María
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						VALLEJO TRIANO
+					</surname><firstname>
+						José
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<pubdate>
+			(2006)
+		</pubdate> 
+		<title>
+			La vigilancia tecnológica en la gestión de proyectos de I+D+i
+		</title> 
+		<subtitle>
+			recursos y herramientas
+		</subtitle>
+		<citetitle pubwork="journal">
+			El Profesional de la Información
+		</citetitle><issuenum>15 (5)</issuenum><pagenums>pp. 411-419</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					REY VÁZQUEZ
+				</surname> <firstname>
+					Lara
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			Ferroatlántica I+D y la vigilancia tecnológica
+		</title> 
+		<citetitle pubwork="journal">
+			En: El profesional de la información
+		</citetitle>
+		<pubdate>
+			2006, noviembre-diciembre
+		</pubdate> 
+		<volumenum>v. 15</volumenum> <issuenum>n. 6</issuenum> <pagenums>pp. 420-425</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					REY VÁZQUEZ
+				</surname> <firstname>
+					Lara
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			Ferroatlantica I+D
+		</title>
+		<subtitle>
+			Experiencia de una Unidad de Vigilancia Tecnológica
+		</subtitle>
+		<citetitle>
+			en: PUZZLE
+		</citetitle>
+		<edition>
+			Año 3, Edición nº 11
+		</edition> 
+		<pubdate>
+			mayo-junio 2004
+		</pubdate>
+		<biblioid class="issn">
+			ISSN 1696-8573
+		</biblioid>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					ROS MARTÍN
+				</surname><firstname>
+					Marcos
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			Qué es fuente de información en Internet
+		</title> 
+		<bibliomisc>
+			<phrase>
+				post del blog El Documentalista Enredado, Domingo, 30 de abril de 2006 [consulta 04-09-2009].
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						SÁEZ DOMINGO
+					</surname> <firstname>
+						Daniel
+					</firstname>
+				</personname>
+			</author> 
+			<author>
+				<personname>
+					<surname>
+						ANTOLÍN FDEZ.
+					</surname><firstname>
+						María
+					</firstname>
+				</personname>
+			</author> 
+		</authorgroup>
+		<title>
+			La vigilancia tecnológica aplicada al sector de tecnologías de la Información y la comunicación
+		</title> 
+		<citetitle>
+			Observatorio tecnológico del ITI, Fesabid 2009
+		</citetitle>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					SAGRADO OLIVENZA
+				</surname> <firstname>I.</firstname>
+			</personname>
+		</author>
+		<title>
+			Minería de texto
+		</title>
+		<subtitle>
+			Recuperación y organización de la información
+		</subtitle> <pubdate>
+			2007
+		</pubdate> 
+		<bibliosource class="uri">
+			Disponible en: 
+			<link xl:href="http://mineriatexto.50webs.com/recuperacion-informacion.html"/>
+		</bibliosource>
+		<bibliomisc>
+			<phrase>
+				[Consultado: 29 de julio de 2009]
+			</phrase>
+		</bibliomisc>
+	</biblioentry>
+	<biblioentry>
+		<author>
+			<personname>
+				<surname>
+					SORIA RAMÍREZ
+				</surname><firstname>
+					Verónica
+				</firstname>
+			</personname>
+		</author> 
+		<title>
+			La literatura Gris y los e-prints
+		</title>
+		<bibliomisc>
+			<phrase>
+				BIBL. UNIV., NUEVA ÉPOCA,
+			</phrase>
+		</bibliomisc>
+		<pubdate>
+			JULIO-DICIEMBRE 2003
+		</pubdate>
+		<volumenum>vol. 6</volumenum><issuenum>nº. 2</issuenum>
+	</biblioentry>
+	<biblioentry>
+		<title>STATE OF THE ART</title> 
+		<subtitle>COMPETITIVE INTELLIGENCE</subtitle> 
+		<citetitle>A Competitive Intelligence Foundation Research Report 2005-2006</citetitle> 
+		<bibliomisc><phrase>Executive Summary. Edited by</phrase></bibliomisc>  
+		<editor>
+			<personname>
+				<firstname>
+					Dale 
+				</firstname>
+				<surname>
+					Fehringer
+				</surname>
+			</personname>
+			<personname>
+				<firstname>
+					Bonnie
+				</firstname>
+				<surname>
+					Hohhof
+				</surname>
+			</personname>
+			<personname>
+				<firstname>
+					Ted
+				</firstname>
+				<surname>
+					Johnson
+				</surname>
+			</personname>
+		</editor>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<surname>
+					TENA MILLÁN
+				</surname>
+				<firstname>
+					Joaquín
+				</firstname>
+			</author>
+			<author>
+				<surname>
+					COMAI
+				</surname>
+				<firstname>
+					Alessandro
+				</firstname>
+			</author>
+		</authorgroup> 
+		 <title>
+		 	La inteligencia competitiva en la planificación estratégica y financiera
+		 </title> 
+		 <editor>
+		 	ed. Harvard Deusto
+		 </editor>
+		 <bibliosource class="uri">
+		 	[<link xl:href="http://lara.rey.googlepages.com/13.pdf"/>].
+		 </bibliosource>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<surname>
+					TENA MILLÁN
+				</surname>
+				<firstname>
+					Joaquín
+				</firstname>
+			</author>
+			<author>
+				<surname>
+					COMAI
+				</surname>
+				<firstname>
+					Alessandro
+				</firstname>
+			</author>
+		</authorgroup>
+		<title>
+			Los propósitos de la inteligencia en la empresa: competidora, cooperativa, neutral e individual.
+		</title> 
+		<citetitle pubwork="journal">En “El profesional de la información</citetitle>
+		<pubdate>2001, mayo</pubdate>
+		<pagenums>pp. 4-10</pagenums>
+	</biblioentry>
+	<biblioentry>
+		<authorgroup>
+			<author>
+				<personname>
+					<surname>
+						VELASCO
+					</surname>
+					<firstname>
+						C. A.
+					</firstname>
+				</personname>
+			</author>
+			<author>
+				<personname>
+					<surname>
+						 QUINTANA GARCÍA
+					</surname>
+					<firstname>
+						C.
+					</firstname>
+				</personname>
+			</author>
+		</authorgroup>
+		<title>
+			Inteligencia competitiva,prospectiva e innovación
+		</title>
+		<subtitle>
+			La norma UNE-166006 EX sobre el sistema de vigilancia tecnológica
+		</subtitle>
+		<citetitle>
+			Boletin ICE
+		</citetitle>
+		<pubdate>2006</pubdate>
+	</biblioentry>	
+</bibliography>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appendix xml:id="bio"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Autor</title>
+  <section xml:id="bio01">
+  	<title>Lara Rey Vázquez</title>
+  	<informalfigure xml:id="bio01img">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-049.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	</informalfigure>
+	<para>
+		Lara Rey Vázquez es licenciada por la Universidad de Santiago de Compostela en Geografía e Historia, especialidad archivos y 
+		bibliotecas (1997). Ha trabajado en Archivos históricos, bibliotecas y Centros de Investigación. Cabe destacar la Biblioteca 
+		Pública de Pontevedra, el Archivo Histórico del Museo de Pontevedra, el Centro de Investigaciones Forestales de Lourizán y 
+		el Centro de Innovación y Servicio de Ferrol. 
+	</para>
+	<para>	
+		Desde el año 2002 es la persona responsable del Dpto. de Vigilancia Tecnológica 
+		y la Responsable del Sistema de Gestión de I+D+i de la empresa Ferroatlantica I+D. Ha impartido diversos cursos de Vigilancia 
+		Tecnológica e Innovación en varios organismos (ANABAD-Galicia, Ingafor...). Ha publicado algunos artículos y colaboraciones 
+		sobre este tema.
+	</para>
+  </section>
+</appendix>

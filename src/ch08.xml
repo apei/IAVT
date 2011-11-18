@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch08"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Análisis de la información recuperada</title>
+	<para>
+		En esta fase se realiza el procesamiento y análisis de la información que hemos buscado. Es el paso más importante, porque 
+		es transformar datos en conocimiento.
+	</para>
+	<para>
+		Para fortalecer estos procesos se utilizan herramientas informáticas (software) especializadas y se hacen consultas que 
+		permiten obtener resultados convencionales.
+	</para>
+	<section xml:id="ch08a">
+		<title>Herramientas informáticas especializadas</title>
+		<para>
+			Dado el volumen de información que en general contienen las fuentes, para su manipulación se han desarrollado diversos 
+			software especializados, que se encuentran disponibles en el mercado (Excel, access, SPSS...).
+		</para>
+		<para>
+			Consultas convencionales a las fuentes seleccionadas. Estas consultas difieren de acuerdo con la naturaleza de los 
+			temas, es decir, según sean de índole científica o tecnológica y, por ende, de las fuentes de información: bases de 
+			datos de artículos científicos o de patentes. En el caso de las bases de datos documentales, que proporcionan 
+			información de carácter científico, algunas consultas genéricas que se realizan en los distintos estudios son:
+		</para>
+		<orderedlist>
+			<listitem>
+				<para>
+					Número de artículos por año registrados en la base de datos: este indicador de frecuencia permite concluir si 
+					se está en presencia de un área de interés científico con amplia trayectoria, madura, o de reciente aparición.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Fuentes potenciales de conocimiento: estas se identifican a partir del recuento simple de los países, revistas 
+					(fuentes de publicación), autores, que investigan en los temas (establecidos a través de palabras clave) y su 
+					nivel de importancia, medido por la frecuencia.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Temas de interés científico para el país líder o algún país competidor en los últimos años: permite establecer 
+					el perfil científico del líder. Su cálculo se basa en la coocurrencia o aparición conjunta de los temas y el 
+					país.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Temas o áreas de investigación de los autores líderes: a partir de la coocurrencia de estos dos campos de 
+					información Cambios en los temas a través del tiempo: permite observar las trayectorias de desarrollo del 
+					conocimiento.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Redes de colaboración entre autores y países: para lo cual se analiza la coocurrencia de los campos autor y país.
+				</para>
+			</listitem>
+		</orderedlist>
+		<para>
+			En el caso de las bases de datos de patentes, para la obtención de información sobre los avances tecnológicos algunas 
+			de las preguntas (convencionales) de los equipos de investigación son:
+		</para>
+		<orderedlist>
+			<listitem>
+				<para>
+					Número de patentes concedidas a través del tiempo: con este indicador se identifican los temas que para las 
+					(diferentes) empresas han sido de creciente interés y en los cuales han desarrollado sus capacidades 
+					tecnológicas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Número de patentes concedidas y solicitadas por año de publicación: la diferencia entre las patentes concedidas 
+					y las solicitadas permite establecer el número de años que transcurren entre la solicitud y la concesión para 
+					un área de conocimiento.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Identificación de líderes tecnológicos: para ello se realizan recuentos simples de algunos campos de 
+					información, como las patentes concedidas por instituciones titulares o las otorgadas por país.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Número de patentes por área tecnológica según la clasificación internacional de patentes: A través de este 
+					indicador se identifican las principales áreas tecnológicas y los temas de mayor interés conducentes a la 
+					patentabilidad.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Número de patentes por año: con este indicador se identifica la dinámica de las tecnologías, es decir, 
+					aquellas áreas que se han fortalecido a través del tiempo y aquellas más emergentes, definidas a partir 
+					de los temas que han aparecido en los últimos años.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Selección de las áreas tecnológicas emergentes: para ello se descomponen las áreas tecnológicas según la 
+					clasificación internacional de patentes, analizando las patentes concedidas y solicitadas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Coocurrencia de las áreas tecnológicas de mayor frecuencia para un año específico: con este indicador se 
+					identifican las relaciones entre las tecnologías Perfil tecnológico de las empresas líderes o pioneras en 
+					áreas emergentes: para establecerlo se analizan las relaciones más fuertes entre las empresas y las áreas 
+					tecnológicas identificadas.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Áreas tecnológicas de mayor competencia, de nichos especializados y/o de poca concurrencia. La posibilidad 
+					de elaborar mapas tecnológicos depende del software empleado en los ejercicios de vigilancia tecnológica. 
+					Dichos mapas se construyen a partir de información estructurada (es decir, bases de datos de publicaciones 
+					científicas o de patentes) y permiten obtener una representación visual fácil de captar y de recordar a 
+					partir de una gran cantidad de información; también proporcionan un panorama detallado de las líneas de 
+					investigación y desarrollo tecnológico mediante el examen de lo que se está publicando o patentando.
+				</para>
+			</listitem>
+		</orderedlist>
+	</section>
+  <section xml:id="ch08b">
+  	<title>Informes de Vigilancia</title>
+  	<para>
+  		La vigilancia tecnológica aprovecha un volumen extraordinario de información científico- técnica (propiedad intelectual, 
+  		investigación, productos, estándares, etc...) y permite realizar una detección temprana de amenazas y oportunidades, 
+  		aportando a las organizaciones ventajas competitivas.
+  	</para>
+  	<para>
+  		Metodológicamente, los informes de vigilancia se pueden desarrollan en cuatro fases, que se detallan a continuación.
+  	</para>
+  	<para>
+  		La primera fase involucra la definición de la temática y de los factores críticos de vigilancia; esta actividad se 
+  		hace conjuntamente entre el equipo de VT y el cliente.
+  	</para>
+  	<para>
+  		Una vez cumplida esta etapa se decide el equipo de trabajo, que son los expertos que realizan el informe de vigilancia, 
+  		y el equipo de seguimiento formado por personal con experiencia en la temática, cuya labor es definir, seguir y evaluar 
+  		el trabajo de vigilancia.
+  	</para>
+  	<para>
+  		Tras la formación de los equipos, se procede a la reunión de lanzamiento del trabajo, cuyo objetivo es aclarar el 
+  		enfoque idóneo y las líneas prioritarias del estudio. Con las ideas resultantes de la reunión, se inicia la segunda 
+  		fase, donde el equipo de trabajo reúne la información solicitada y considerada de interés, concretando la primera 
+  		versión del informe que se envía al equipo de seguimiento.
+  	</para>
+  	<para>
+  		La tercera fase involucra al equipo de seguimiento que, tras analizar el informe, aporta su opinión y sugerencias 
+  		sobre el avance del trabajo y, si es el caso, procede a la redefinición y concreción de algún aspecto referido a 
+  		los objetivos y perfil de la vigilancia tecnológica establecida. En la cuarta y última fase, el equipo de trabajo 
+  		elabora la versión final del informe, añadiendo y completando los comentarios aportados por el equipo de seguimiento 
+  		y concluyendo de este modo el trabajo.
+  	</para>
+  	<para>
+  		Esta metodología permite la existencia en todo momento de una fluida comunicación entre el personal que realiza el 
+  		trabajo y la asociación que lo demanda, obteniéndose de ese modo un informe ajustado a las necesidades del cliente.
+  	</para>
+  </section>
+  <section xml:id="ch08c">
+  	<title>Ejemplos en Internet</title>
+  	<variablelist>
+  		<varlistentry>
+  			<term>Servicios y aplicaciones en movilidad para el sector turístico, 2007.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.n-economia.com/informes_documentos/pdf/sintesis_documentos/SINTESIS_NE_01-2008.PDF"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>Informes de vigilancia tecnológica de Madri+d.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.madrimasd.org/informacionidi/biblioteca/Publicacion/Vigilancia-tecnologica/default.asp"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>Nuevo informe de Vigilancia Tecnológica sobre Polímeros Inteligentes.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://e-archivo.uc3m.es/dspace/handle/10016/2194"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>Informes de Vigilancia Tecnológica.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.oepm.es"/>. La OEPM en colaboración con instituciones como el OPTI y la SETSI 
+  					elabora trimestralmente y de forma gratuita los boletines de vigilancia tecnológica.
+  				</para>  				
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>Procesos empresariales bajo entornos colaborativos: Tecnologías y aplicaciones.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://innovacion.ita.es/obsetec/archivos/Informe_VT_Entornos%20Colaborativos.pdf"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>Informe de Vigilancia sobre Técnicas analíticas para detectar el gluten en los alimentos.</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.fiagro.org.sv/systemFiles/VT9_detecci%C3%B3n_gluten_alimentos%5B1%5D.pdf"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>DNI electrónico. Informe de vigilancia tecnológica sobre eID realizado por CITIC</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.consultoras.org/frontend/aec/DNI-Electronico—Informe-De-Vigilancia-Tecnologica-Sobre-EID-Realizado-Por-CITIC-vn6208-vst98#"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  	</variablelist>
+  </section>
+</chapter>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch02"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Definiciones y conceptos</title>
+  <section xml:id="ch02a">
+  	<title>¿Qué es la vigilancia tecnológica?</title>
+  	<para>
+  		<emphasis role="strong">Definición según Palop y Vicente</emphasis> (1999, b) sobre la Vigilancia: “sistema organizado de observación y análisis del 
+  		entorno, tratamiento y circulación interna de los hechos observados y posterior utilización en la empresa”.
+  	</para>
+  	<para>
+  		<emphasis role="strong">Definición de Vigilancia Tecnológica</emphasis> (VT) según la norma UNE 166006: Proceso organizado, selectivo y sistemático, 
+  		para captar información del exterior y de la propia organización sobre ciencia y tecnología, seleccionarla, analizarla, difundirla y comunicarla, para 
+  		convertirla en conocimiento con el fin de tomar decisiones con menor riesgo y poder anticiparse a los cambios.
+  	</para>
+  	<para>
+  		Otra de las definiciones que más se utiliza es: <emphasis role="strong">La vigilancia consiste en realizar de forma sistemática la captura, el análisis, 
+  		la difusión y la explotación de las informaciones técnicas útiles para la supervivencia y el crecimiento de la empresa</emphasis>. La vigilancia debe 
+  		alertar sobre cualquier innovación científica o técnica susceptible de crear oportunidades o amenazas. A las empresas les gusta saber qué pasa, no tener 
+  		sorpresas, aprovechar las oportunidades, si pueden, y evidentemente combatir o hacer frente a las amenazas que puedan presentarse.
+  	</para>
+  	<para>
+  		<emphasis role="strong">La Inteligencia Competitiva es definida por Gibbons y Prescott</emphasis> (1996): Inteligencia Competitiva es el proceso de 
+  		obtención, análisis, interpretación y difusión de información de valor estratégico sobre la industria y los competidores, que se transmite a los 
+  		responsables de la toma de decisiones en el momento oportuno.
+  	</para>
+  	<para>
+  		<emphasis role="strong">Por lo tanto, ¿son dos conceptos similares?</emphasis>
+  	</para>
+  	<blockquote>
+  		<para>
+  			Muchas veces se confunden ambos conceptos al referirse a la misma cosa. Es obvio que los dos están estrechamente relacionados, sobre todo, porque 
+  			la inteligencia competitiva es una evolución de la Vigilancia. Por ello, no son fácilmente distinguibles. De hecho, la Vigilancia está dividida 
+  			exactamente en las mismas áreas que integran la inteligencia.
+  		</para>
+  		<para>
+  			La Vigilancia nace ante la necesidad de las empresas de observar su entorno y así poder responder a determinados cambios cuando éstos se producen. 
+  			La Inteligencia Competitiva, sin embargo, parte del conocimiento del entorno, lo cual implica poder adelantarse a los cambios, entendidos en ambos 
+  			casos, como las amenazas y las oportunidades.
+  		</para>
+  		<para>
+  			De esta manera, la diferencia fundamental entre las dos disciplinas es la actitud activa de la Inteligencia, para “conocer” el entorno y así 
+  			anticiparse a los cambios. Ello supone no esperar a ver dónde se producen los cambios para actuar después, sino buscar activamente las oportunidades 
+  			del entorno, lo que conlleva una revolución en la manera de entender todas las actividades gerenciales, comerciales y de innovación de la empresa.
+  		</para>
+  		<attribution>Fuente: Modelos de vigilancia tecnológica e inteligencia competitiva, ed. Bai, 2007.</attribution>
+  	</blockquote>
+  	<para>
+  		Utilizarlos indistintamente no constituye una falta grave, y es habitual hacerlo así<footnote><para>Conferencia inaugural de los Estudios de Información 
+  		y Documentación de la UOC del segundo semestre del curso 2001-2002 (15 de septiembre de 2001): 
+  		<link xl:href="http://www.uoc.es/web/esp/art/uoc/escorsa0202/escorsa0202_imp.html"/> -[vínculo visitado en agosto de 2009].</para></footnote>. Pero cada 
+  		vez más, los profesionales que realizan Inteligencia, marcan las distancias. La Inteligencia para ellos tiene unas implicaciones psicológicas y estratégicas 
+  		que la Vigilancia, bajo su punto de vista, no tiene. Muchas definiciones de ambos conceptos coinciden casi completamente. No obstante, buscando un mayor 
+  		rigor, se observa una tendencia a reservar la palabra Vigilancia a las primeras fases del proceso, es decir, a la obtención de la información y, tal vez 
+  		a su procesamiento inicial, mientras que la Inteligencia se aplica sobre todo a las etapas finales, especialmente a la de análisis, que precede a la 
+  		difusión y a la toma de decisiones.
+  	</para>
+  	<para>
+  		La vigilancia tecnológica da paso o se incorpora dentro de la inteligencia económica, lo que supone utilizar la información obtenida relevante para la 
+  		empresa de cara a la toma de decisiones acertada.
+  	</para>
+  	<para>
+  		Por esta razón se afirma que la vigilancia genera inteligencia:
+  	</para>
+  	<para>
+  		<emphasis role="strong">
+  			La vigilancia tiene un papel de detección mientras la inteligencia competitiva tiene por misión el posicionamiento estratégico de la empresa en su 
+  			entorno (Cohen).
+  		</emphasis>
+  	</para>
+  	<para>
+  		<emphasis role="strong">
+  			La inteligencia no es sólo observación sino una práctica ofensiva y defensiva de la información. Es una herramienta que conecta el saber de la empresa 
+  			con la acción (Baumard, 1991).
+  		</emphasis>
+  	</para>
+  	<para>
+  		Otros autores aportan nuevos matices. En Francia, por ejemplo, emplean la expresión Inteligencia Económica en lugar de Inteligencia Competitiva, que 
+  		incluye el análisis de las áreas tecnológica, comercial, jurídica, financiera, etc., con un carácter más global que la Vigilancia, que se limitaría a 
+  		un solo aspecto (por ejemplo, Vigilancia Tecnológica). Otros señalan que la Inteligencia aporta un producto más “elaborado” o “refinado” que la Vigilancia, 
+  		que, según ellos, aportaría sólo datos en bruto. Por último, algunos señalan que el argumento de más peso en la utilización de la palabra Inteligencia en 
+  		lugar de Vigilancia consiste en el creciente uso del vocablo <foreignphrase lang="en">Intelligence</foreignphrase> en el mundo anglosajón, que incluye 
+  		aspectos relacionados con la Seguridad.
+  	</para>
+  	<para>
+  		La vigilancia tecnológica y la inteligencia competitiva se orientan a proporcionar información para la toma de decisiones, pero su objeto de análisis 
+  		marca la diferencia entre ellas. Mientras la primera se enfoca en el seguimiento de la evolución de la tecnología y de sus implicaciones, la segunda 
+  		lo hace en otros factores de competitividad, como los competidores actuales y potenciales, clientes, proveedores, entorno normativo, etc., y sus 
+  		repercusiones en la competitividad de las empresas (regiones, sectores, clusters, cadenas productivas, entre otras).
+  	</para>
+  	<para>
+  		Dado que es un proceso, se trata de un conjunto de acciones que se llevan a cabo entre varias personas, por tanto no corresponde con la idea del 
+  		trabajo de una persona, sino de un equipo.
+  	</para>
+  	<para>
+  		Dado que es un proceso, no hay que identificar a la vigilancia con herramientas de software, bases de datos o publicaciones especializadas. El proceso 
+  		está por encima de las herramientas que se utilizan, que pueden cambiar y evolucionar con el tiempo. Es el proceso el que indica, además, el mejor uso 
+  		que hay que dar a cada herramienta o a cada fuente de información.
+  	</para>
+  	<para>
+  		La Vigilancia Tecnológica está basada en la captación y análisis sistemático de informaciones disponible en fuentes de información gratuitas o 
+  		comerciales. No tiene nada que ver con la obtención ilícita de información mediante espionaje, copias ilegales etc.
+  	</para>
+  	<para>
+  		Las tareas de la VT son pura gestión de la información. Se trata de un método claro, riguroso y neutro de alerta temprana para la dirección.
+  	</para>
+  	<para>
+  		El fin de la Vigilancia Tecnológica no es captar rumores o informaciones sin contrastar. Todo lo contrario, se trata de localizar informaciones 
+  		fiables de alto valor que creen nuevas oportunidades de negocio y mejoren la situación competitiva de la organización.
+  	</para>
+  	<para>
+  		Hay que hacer hincapié en que el principal beneficiario de la implantación de esta metodología es la dirección de la empresa, por lo que su implantación 
+  		conviene que esté impulsada por la propia dirección<footnote><para>Fuente: ¿Qué es la Inteligencia Competitiva? Pere Escorsa. Madrid, 29-30 de noviembre de 2007.</para></footnote>.
+  	</para>
+  </section>
+  <section xml:id="ch02b">
+  	<title>Objetivos de la vigilancia tecnológica</title>
+  	<para>
+  		La Vigilancia Tecnológica tiene como objetivo la obtención continuada y el análisis sistemático de información de valor estratégico sobre tecnologías 
+  		y sus tendencias previsibles, para la toma de decisiones empresariales.
+  	</para>
+  	<para>
+  		También es destacable el objetivo que se señala desde la Comunidad de Madrid para la vigilancia tecnológica, que es <quote>la obtención continuada y 
+  		el análisis sistemático de información de valor estratégico</quote> (2000).
+  	</para>
+  	<para>
+  		Las empresas necesitan conocer las últimas tecnologías en las que se está trabajando, así como los últimos productos que están en el mercado. En 
+  		definitiva, conocer las líneas de investigación y las patentes en la disciplina correspondiente. También interesa conocer las tecnologías emergentes 
+  		y aquellas que quedan obsoletas. Por tanto, saber en una etapa temprana, los avances tecnológicos en el área de interés, es un tema prioritario. La 
+  		incorporación de una tecnología eficiente puede ofrecer una ventaja competitiva a la empresa.
+  	</para>
+  	<para>
+  		En <emphasis role="strong">segundo</emphasis> lugar, interesa conocer qué hacen los competidores, en qué investigan, dónde patentan, por dónde se 
+  		mueven, para intentar seguirles o adelantarles.
+  	</para>
+  	<para>
+  		La cooperación entre las diferentes universidades, centros tecnológicos, empresas, consorcios y asociaciones innovadoras resulta fundamental para 
+  		obtener la mejor tecnología dentro de un área determinada que permita a la empresa destacar del resto.
+  	</para>
+  	<para>
+  		<emphasis role="strong">Tercero</emphasis>, se intentará armonizar y organizar los estudios e investigaciones sobre los distintos estándares para, 
+  		de este modo, impedir el duplicado del trabajo.
+  	</para>
+  	<para>
+  		Y, finalmente, las empresas de una tecnología determinada quieren saber quién es el líder, y en qué instituto, en qué universidad, en qué empresa 
+  		está, para intentar ponerse en contacto con él para conseguir ventaja.
+  	</para>
+  	<para>
+  		El objetivo es conseguir que la información adecuada esté en el momento preciso en manos de quien la necesita.
+  	</para>
+  	<para>
+  		Es decir, si se tiene la información adecuada, pero no se ha establecido quien o quienes son receptores de esta información, cuando por fin lo 
+  		hayamos localizado, la información ya no tendrá el valor añadido del principio. El factor “novedad” o “sorpresa” en una información es tremendamente 
+  		efímero, y todo el tiempo que se tarde en transmitirla irá en detrimento de su valor.
+  	</para>
+  	<para>
+  		Por lo tanto el factor información valiosa + interlocutor válido = vigilancia tecnológica.
+  	</para>
+  	<informalfigure xreflabel="Fig 1">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-051.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  </section>
+  <section xml:id="ch02c">
+  	<title>¿Qué se debe vigilar?</title>
+  	<para>
+  		Como el propio término indica, la vigilancia supone estar informado de lo que está ocurriendo en un determinado entorno. Para el gestor de la 
+  		información esto significa detectar información de interés procedente de recursos variados y dispersos, pero también seguir y analizar aquellas 
+  		otras fuentes de obligada consulta que habitualmente aportan información relevante y que deben explorarse sistemáticamente.
+  	</para>
+  	<para>
+  		Conocer el entorno, identificar tendencias (nuevos temas, nuevos actores, nuevos productos, nuevos procesos, etc.), riesgos, oportunidades, etc., 
+  		y actuar en consecuencia, son los objetivos básicos de la vigilancia tecnológica y la inteligencia competitiva. El éxito de estos procesos depende 
+  		de distintos factores pero podemos afirmar que hay dos determinantes. Por una parte, la participación de todos los miembros de una organización; 
+  		por otra, la existencia de un sistema de gestión del conocimiento eficaz, entendiendo por tal un modelo de gestión de información formal e informal.
+  	</para>
+  	<para>
+  		Sin embargo, en las últimas décadas esa tarea ha vivido desarrollos sustanciales, y hoy coexisten prácticas de vigilancia con objetivos y niveles 
+  		heterogéneos de avance. Cuando dicha labor se hace de manera rutinaria en la empresa, sobre un amplio conjunto de fuentes de datos, con la expectativa 
+  		de encontrar información de interés para el desarrollo de su negocio, se está en presencia de una vigilancia <emphasis role="strong">pasiva</emphasis> 
+  		o <emphasis role="strong">scanning</emphasis>. Cuando la búsqueda de información sobre actividades relevantes seleccionadas tiene un carácter 
+  		investigativo, con el fin de proveer un conocimiento continuo sobre los desarrollos y las tendencias emergentes, se le llama vigilancia 
+  		<emphasis role="strong">activa</emphasis> o <emphasis role="strong">monitoring</emphasis>. Si en ella se incluye la búsqueda puntual de información sobre 
+  		un determinado tema, se denomina search (Escorsa y Maspons, 2001). Cuando la búsqueda incluye tanto al <emphasis role="strong">scanning</emphasis> 
+  		como al <emphasis role="strong">monitoring</emphasis>, es decir, tiene un carácter más general, se denomina <emphasis role="strong">watching</emphasis>. 
+  		En este caso el proceso de vigilancia está mucho más organizado y es más sistemático, y se está en presencia de un sistema de organización de la 
+  		observación, análisis y difusión precisa de la información para la toma de decisiones. Ese sistema de vigilancia filtra, interpreta y valora la 
+  		información para permitir a sus usuarios actuar con más eficacia<footnote><para>MALAVER RODRÍGUEZ, Florentino; VARGAS PÉREZ, Marisela (ed.): 
+  		Vigilancia tecnológica y competitividad sectorial: lecciones y resultados de cinco estudios, ISBN: 978-958-44-1156-3, Bogotá, 2007.</para></footnote>.
+  	</para>
+  </section>
+  <section xml:id="ch02d">
+  	<title>Clases de Vigilancia</title>
+  	<para>Se habla de cuatro tipos de vigilancia:</para>
+  	<orderedlist numeration="loweralpha">
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">tecnológica</emphasis> o centrada en el seguimiento de los avances del estado de la técnica y en particular de la 
+  				tecnología y de las oportunidades /amenazas que genera.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">competitiva</emphasis>, implica un análisis y seguimiento de los competidores actuales, potenciales y de aquellos con 
+  				producto sustitutivo.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">comercial</emphasis>, dedica la atención sobre los clientes y proveedores.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">del entorno</emphasis>, centra la observación sobre el conjunto de aspectos sociales, legales, medioambientales, 
+  				culturales, que configuran el marco de la competencia.
+  			</para>
+  		</listitem>
+  	</orderedlist>
+  </section>
+  <section xml:id="ch02e">
+  	<title>Vigilancia Tradicional</title>
+  	<blockquote>
+  		<para>
+  			<emphasis role="strong">Todas las acciones económicas están insertadas en redes de relaciones interpersonales.</emphasis>
+  		</para>
+  		<para>
+  			<emphasis role="strong">La implantación de acciones de Vigilancia fiables y eficaces pasa por la creación y la gestión de un cierto número de redes.</emphasis>
+  		</para>
+  	</blockquote>
+  	<para>
+  		La vigilancia tradicional es la que se ha realizado toda la vida en las empresas. Aunque quizá el término Vigilancia se ha puesto más o menos de moda 
+  		en los últimos diez años, las empresas llevan realizando Vigilancia desde hace mucho tiempo.
+  	</para>
+  	<para>
+  		La asistencia a ferias, congresos, la consulta de catálogos, las revistas especializadas que se recibían por correo en formato papel...
+  	</para>
+  	<para>
+  		La Vigilancia tradicional utiliza fuentes clásicas para atender a estos frentes:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Vigilancia competitiva</emphasis> competidores actuales y potenciales.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Vigilancia comercial</emphasis> clientes, mercados, proveedores.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Vigilancia tecnológica</emphasis> tecnologías disponibles y/o emergentes.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				<emphasis role="strong">Vigilancia del entorno</emphasis> sociología, política, reglamentaciones, medio ambiente...
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<informalfigure xreflabel="Fig 2">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-006.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+  	</informalfigure>
+  	<para>
+  		Y de forma tradicional contestaba en la medida de lo posible a estas preguntas, aunque de forma no estructurada:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				¿Cuáles son las principales líneas de investigación/innovación?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Qué tecnologías/productos emergentes están apareciendo?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Qué hacen los competidores/proveedores?
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				¿Quiénes son los líderes? (Centros de investigación, equipos, personas...).
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		La necesidad de saber qué es lo que está ocurriendo en el entorno (nuevos mercados, nuevos competidores, nuevas amenazas...) ha sido junto con 
+  		la aparición de Internet la causa del acercamiento de la Vigilancia a la empresa.
+  	</para>
+  </section>
+  <section xml:id="ch02f">
+  	<title>Vigilancia Avanzada</title>
+  	<para>
+  		Los volúmenes de datos, informaciones y conocimientos que se almacenan en bases de datos y en los que se han dado en llamar grandes repositorios 
+  		de datos permiten una exploración mediante diferentes opciones de búsqueda.
+  	</para>
+	<para>
+		<emphasis role="strong">Minería de datos: </emphasis> Es un mecanismo de explotación, consistente en la búsqueda de información valiosa en 
+		grandes volúmenes de datos. Está muy relacionada con las bodegas de datos que proporcionan la información histórica con la cual los algoritmos 
+		de minería tienen la información necesaria para la toma de decisiones.
+	</para>
+	<para>
+		Según <emphasis>Fallad</emphasis> y sus coautores (1996): “La minería de datos es un proceso no trivial de identificación válida, novedosa, 
+		potencialmente útil y entendible de patrones comprensibles que se encuentran ocultos en los datos”.
+	</para>
+	<para>
+		Según Molina y sus colaboradores (2001): “Es la integración de un conjunto de áreas que tienen como propósito la identificación de un 
+		conocimiento obtenido a partir de las bases de datos que aporten un sesgo hacia la toma de decisión”.
+	</para>
+	<para>
+		<emphasis role="strong">Minería de textos: </emphasis>Debido a que el 80 por ciento de la información de una compañía está almacenada en forma 
+		de documentos, las técnicas como la categorización de texto, el procesamiento de lenguaje natural, la extracción y recuperación de la información 
+		o el aprendizaje automático, entre otras, apoyan al <foreignphrase lang="en">Text Mining</foreignphrase> (minería de texto). En ocasiones se confunde 
+		el <foreignphrase lang="en">Text Mining</foreignphrase> con la recuperación de la información (<foreignphrase lang="en">Information Retrieval</foreignphrase> 
+		o IR) (Hearst, 1999). Esta última consiste en la recuperación automática de documentos relevantes mediante indizaciones de textos, clasificación, 
+		categorización, etcétera. Generalmente, se utilizan palabras clave para encontrar una página relevante. En cambio, el 
+		<foreignphrase lang="en">Text Mining</foreignphrase> se refiere al examen de una colección de documentos y el descubrimiento de información no 
+		contenida en ningún documento individual de la colección; en otras palabras, trata de obtener información sin haber partido de algo. (Nasukawa y otros, 
+		2001)<footnote><para>Fuente: Bressán G. 2003. Almacenes de datos y minería de datos. 2003. Disponible en: 
+		<link xl:href="http://www/banners/interstitial.html?http://exa.unne.edu.ar/"/> [Consultado: 29 de julio de 2009].</para></footnote>.
+	</para>
+	<para>
+		La <emphasis role="strong">minería de texto</emphasis> pretende facilitar el tratamiento por parte de las computadoras de la semántica del 
+		lenguaje natural. La mayor parte del conocimiento humano está representado en lenguaje natural. Para poder acceder a dicho conocimiento es 
+		necesario poder contestar a estas preguntas:
+	</para>
+	<itemizedlist>
+		<listitem>
+			<para>
+				¿Cómo buscamos la información?
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				¿Cómo comparar fuentes de información diferentes y sacar conclusiones?
+			</para>
+		</listitem>
+		<listitem>
+			<para>
+				¿Cómo manejamos los textos para, por ejemplo, traducirlos o editarlos?
+			</para>
+		</listitem>
+	</itemizedlist>
+  	<para>
+  		La <emphasis role="strong">Minería de texto</emphasis> consiste en la búsqueda a partir de técnicas de aprendizaje automático de regularidades o 
+  		patrones que se encuentran dentro de un texto.
+  	</para>
+  	<para>
+  		En la literatura sobre el tema, se refiere que las aplicaciones de la minería de textos se utilizan principalmente para:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Extraer información relevante de un documento.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Agregar y comparar información automáticamente.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Clasificar y organizar documentos según su contenido.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Organizar depósitos para búsqueda y recuperación.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Clasificar textos e indizarlos en el Web.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		Pero la realidad es que son muchos los casos de organizaciones que han aplicado la minería de textos con el afán de alcanzar objetivos más reales y 
+  		ambiciosos (en el mejor sentido) que estos. Por ejemplo, el uso que le dan algunas empresas para identificar el contenido de los correos electrónicos 
+  		que les envían los clientes y redirigirlos a los departamentos apropiados, incluso si el sistema es capaz de identificar el contenido de una consulta 
+  		frecuente, envía una respuesta estándar, sin necesidad de intervención humana. En el campo de la vigilancia tecnológica y en la “<foreignphrase lang="en">Business Intelligence</foreignphrase>”, 
+  		para bucear en las bases de datos textuales y seguir la evolución de la competencia. Además de que se apunta también la posibilidad de usar esta técnica 
+  		en la investigación de mercados en el Web, sobre la base de recoger estadísticas sobre la utilización de determinados conceptos y temas en la red con el 
+  		objetivo de estimar la demografía y las curvas de demanda de productos asociados con ellos. Todas esas aplicaciones son perfectamente transferibles a la 
+  		gestión de información que ocurre en el interior de las bibliotecas y están llamadas a redimensionar la función de la entidad, así como del bibliotecario, 
+  		tanto hacia adentro como fuera de esta<footnote><para>Fuente: Copiado y pegado de “Minería de textos: una herramienta útil para mejorar la gestión del 
+  		bibliotecario en el entorno digital” MSc. Eleazar BOTTA-FERRET1 y Lic. Jania E. CABRERA-GATO2, Acimed 2007; 16(4) 
+  		<link xl:href="http://bvs.sld.cu/revistas/aci/vol16_4_07/aci051007.html"/>, [consulta: 3 de agosto de 2009].</para></footnote>.
+  	</para>
+  </section>  
+</chapter>

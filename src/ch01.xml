@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<chapter xml:id="ch01"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Presentación</title>
+  <section xml:id="ch01a">
+  	<title>Palabras previas</title>
+  	<para>
+  		Llevo casi toda mi vida laboral dedicada a las labores de Vigilancia. No tengo muy claro cuántas fuentes habré manejado en este tiempo, 
+  		pero seguro que muchas (observando mi favoritos diría que más de 1000). Cuando me incorporé por primera vez al mundo laboral, estaba 
+  		empezando a fraguarse la ola digital en la que hoy estamos inmersos. Mi primer correo electrónico corporativo lo tuve en el año 1998. 
+  		En mi libreta de direcciones había cuatro contactos (me da la risa!!). En esa época asistí a un curso en Barcelona para aprender a manejar 
+  		la base de datos Dialog, cuando todavía no era del grupo Thomson. De aquella yo no usaba Google, no tardé mucho, pero todavía no lo 
+  		utilizaba. Tenía un correo en Hotmail con 2 Mb de capacidad. La conexión era por una frame-relay de 64 kb., utilizaba disquets, Windows 
+  		NT Workstation, mi ordenador era un Pentium II y utilizaba como Bases de Datos Dialog, TradStat, Datastar, Ardan, Dicodi, etc..Todas por 
+  		su puesto super-caras y super-restrictivas.
+  	</para>
+  	<para>
+  		Así era de dura la vida. Pero a pesar de todo era un placer navegar por internet buscando fuentes nuevas con información. Y todos los días 
+  		nos sorprendíamos con algo novedoso. Los organismos oficiales, las universidades, las bibliotecas, las oficinas de patentes... Se había 
+  		iniciado una carrera meteórica para estar en la red de redes... facilitando sin querer la labor del documentalista y de qué manera!!!
+  	</para>
+  	<para>
+  		Creo que este “tsunami” nos ha venido de perlas y creo también que ha valorizado, actualizado y puesto en el punto de mira una profesión 
+  		un poco desconocida en la sociedad (aun escucho de vez en cuando... documentalista? Y qué haces... documentales??).
+  	</para>
+  	<para>
+  		La Vigilancia en sí no es nueva, la forma de hacer vigilancia es lo que ha cambiado. La forma de ofrecerla también ha cambiado. Internet 
+  		es hoy por hoy una herramienta fundamental para hacer y para ofrecer Vigilancia. El resto lo pone cada uno... como en todas las profesiones.
+  	</para>
+  	<para>
+  		Lo que está ocurriendo hoy ya lo conocemos todos. El término <emphasis>infoxicacion</emphasis> ha pasado de ser un neófito en nuestras vidas 
+  		a formar parte de nuestro vocabulario. La ingente cantidad de fuentes que ofrecen contenidos a texto completo en Internet es inabarcable. 
+  		El debate de ahora es el que plantea Isidro Aguillo <citetitle pubwork="emailmessage">[Isidro Aguillo ThinkEPI, enviado a IWETEL el 26-10-09]</citetitle> 
+  	</para>
+  	<blockquote>
+  		<para>
+  			A pesar de la creciente importancia que ha adquirido la Web, especialmente en el ámbito académico, es todavía muy frecuente observar 
+  			entre profesores e investigadores actitudes despreciativas hacia sus contenidos Sin duda la proliferación de noticias negativas sobre 
+  			la red en los medios de comunicación, señalando supuestos peligros, informaciones tendenciosas o flagrantes delitos ha contribuido 
+  			considerablemente a esta percepción.
+  		</para>
+  		<para>
+  			En este sentido se está abriendo una “brecha digital” entre los que prácticamente solo utilizan la red como principal fuente y citan 
+  			sin ningún problema los artículos de la Wikipedia como referencia y los que no añaden la URL en una cita bibliográfica, cuyo texto 
+  			completo está disponible gratuitamente en una revista electrónica o repositorio ya que al parecer ello menoscaba la “calidad” de la 
+  			referencia.
+  		</para>
+  	</blockquote>	
+  	<para>
+  		Y eso es muy importante. Estamos ante una nueva forma de difundir/añadir/modificar... la información. Las fuentes formales e informales 
+  		tienen cada vez menos definidas sus fronteras. Está cambiando la forma de comunicarse, la forma de escribir, la forma de difundir la 
+  		información, la forma de navegar... Proliferan las Redes Sociales, los programas en “la nube”, la sindicación de contenidos, los blogs, etc..
+  	</para>	
+  	<para>
+  		La tendencia es Scivee, nature network, Open Wetware, Innocentive, Google Scholar, Google Patent, etc..
+  	</para>
+  	<para>Más información, más datos, más fuentes...</para>
+  </section>
+  <section xml:id="ch01b">
+  	<title>A modo de introducción</title>
+  	<para>
+  		De acuerdo con datos de la consultora inglesa Netcraft, durante el último año la cantidad de dominios registrados en la Web se incrementó casi 
+  		en un 50% respecto de 2006. En diciembre de 2007 la cifra superó los 155 millones de sitios Web, mientras que en diciembre del año anterior 
+  		alcanzaba los 105 millones. En total, los <emphasis>blogs</emphasis> son los que más crecieron en el último tiempo.
+  	</para>
+  	<para>
+  		Pese a que los primeros acercamientos a la World Wide Web se dieron hace veinte años, la consolidación de Internet como herramienta y la 
+  		explosión de sitios Web en forma masiva a nivel global pueden ubicarse a partir de mediados de los ‘90.
+  	</para>
+  	<para>
+  		De acuerdo con los datos relevados por la consultora inglesa Netcraft, 50 millones de sitios Web se sumaron durante 2007 a los que ya existían 
+  		a finales de 2006 (las cifras exactas registradas en diciembre del año pasado y el anterior fueron 155.230.051 contra 105.244.649). Si se tienen 
+  		en cuenta únicamente los sitios activos, el crecimiento no deja de ser sorprendente: 38% más que los existentes hasta diciembre de 2006.
+  	</para>
+  	<para>
+  		Sin embargo, lo más llamativo tal vez sea que el mayor crecimiento estuvo dado esta vez por los blogs: los tres mayores proveedores<footnote>
+  		<para>Fuente: La Flecha. <link xl:href="http://www.laflecha.net/canales/blackhats/en-2007-el-numero-de-paginas-web-crecio-un-48"/></para></footnote> 
+  		de este tipo de sitios Web –MySpace, Live Spaces y Blogger– registraron la mitad del total de nuevos registros del año: 25 millones. Una tendencia 
+  		que habla del incremento en la participación y generación de contenidos de los internautas.
+  	</para>
+  	<para>
+  		Durante 2006, el récord había sido de 30 millones de sitios Web nuevos. Pero resulta interesante observar la progresiva de crecimiento del registro 
+  		de sitios Web a lo largo de la última década, que de acuerdo con Netcraft fue la siguiente: en abril de 1997 existían 1 millón de sitios, en febrero 
+  		de 2000 pasaron a ser 10 millones y en septiembre de ese mismo año la cifra se duplicó, con lo cual el año 2000 registró el récord histórico de 
+  		crecimiento. Posteriormente la cifra fue aumentando 10 millones en cada medición, registradas sucesivamente en julio de 2001, abril de 2003, mayo 
+  		de 2004, marzo de 2005, agosto de 2005, abril de 2006 y agosto de 2006.
+  	</para>
+  </section>
+</chapter>

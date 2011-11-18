@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="ch07"
+	lang="es" version="5.0" 
+	xmlns="http://docbook.org/ns/docbook" 
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xl="http://www.w3.org/1999/xlink">
+  <title>Portales, software, buscadores y otras herramientas</title>
+  <section xml:id="ch07a">
+  	<title>Herramientas de búsqueda avanzada</title>
+  	<para>
+  		La herramienta IP Century <link xl:href="http://www.sales4ipcentury.com"/> ofrece resultados automáticos del estado de 
+  		la técnica, la nulidad, la libertad para realizar búsquedas. Es posible que en un futuro próximo sea posible obtener 
+  		mejores resultados con nuevas tecnologías en materia de búsqueda y con ordenadores más potentes.
+  	</para>
+  	<para>
+  		Es en el ámbito universitario donde pueden encontrarse la mayoría de esos nuevos motores. Los datos Medline se utilizan 
+  		en ambos casos en los ejemplos siguientes.
+  	</para>
+  	<para>
+  		GoPubMed <link xl:href="http://www.gopubmed.org"/>, desarrollado por la Universidad de Dresden, es una herramienta de 
+  		búsqueda de documentación basada en la ontología que permite encontrar los artículos en materia de investigación biomédica. 
+  		La búsqueda se presenta a PubMed y los resúmenes resultantes se clasifican utilizando la Gene Ontology (ontología de genes) 
+  		y la Medical Subject Headings (MeSH). Las herramientas gráficas suplementarias mostrarán todas las informaciones 
+  		estadísticas posibles.
+  	</para>
+  	<para>
+  		MEDIE <link xl:href="http://www-tsujii.is.s.u-tokyo.ac.jp/medie"/>, creado por una universidad japonesa, es un motor de 
+  		investigación inteligente desarrollado para encontrar correlaciones biomédicas a partir de MEDLINE. Se pueden localizar 
+  		resúmenes/ frases en MEDLINE al especificar los campos semánticos de las correlaciones, por ejemplo “What activates p53” 
+  		(qué activa el p53) o “What causes colon cancer” (qué causa el cáncer de colon). Esta es una de las herramientas de 
+  		búsqueda científica semántica más impresionante.
+  	</para>
+  	<para>
+  		Estas tres herramientas representan únicamente una pequeña parte de los esfuerzos llevados a cabo para desarrollar más 
+  		fácilmente la utilización de las herramientas de búsqueda. Aplicaciones de búsqueda más poderosas pueden aparecer antes 
+  		de lo esperado.
+  	</para>
+  	<para>
+  		Fuente: Una nueva generación de herramientas de búsqueda de patentes y de informaciones científicas
+		<link xl:href="http://www.ipr-helpdesk.org/newsletter/35/html/ES/howToFindAPatent.html"/>
+  	</para>
+  </section>
+  <section xml:id="ch07b">
+  	<title>Software de patentes</title>
+  	<section xml:id="ch07b1">
+  		<title>Decopa de IPCentury</title>
+  		<para>
+  			El programa DECOPA de la empresa IPCentury. Este programa realiza un estudio en profundidad de los documentos de patentes 
+  			utilizando técnicas de minería de la información. Se trata de un programa de pago pero dispone de un acceso gratuito 
+  			(opción demo) con el que es posible, dado un número de patente concreto o un texto que puede ser el de una reivindicación 
+  			de una patente, realizar cuatro tipos de análisis que denominan: novedad, invalidez, patentabilidad e infracción.
+  		</para>
+  		<para>
+  			El sistema hace el análisis comparando el texto o la patente que incluye el usuario con la colección de documentos 
+  			disponible en su base de datos, y ofrece una lista de resultados ordenados por relevancia. Por tanto, este sistema 
+  			permite localizar documentos que estén relacionados de alguna manera con la patente que se estudia, lo que permite 
+  			automatizar parcialmente el proceso de búsqueda de patentes en un sector.
+  		</para>
+  	</section>
+  	<section xml:id="ch07b2">
+  		<title>PROInTec: un software para el tratamiento inteligente de datos sobre patentes</title>
+  		<para>
+  			El software, al estar diseñado y desarrollado en el marco de un proyecto de investigación presentado, desarrollado y liderado 
+  			por el grupo PROGINTEC, no se comercializa aún. En estos momentos sólo brinda servicios gratuitos a profesores investigadores 
+  			de la provincia Pinar del Río, vinculados con las prioridades de la ciencia y a miembros del Polo Científico. Se accede por 
+  			medio de la Web tecnológica de la UPR, desarrollado por el mismo grupo de investigación y que promueve información de corte 
+  			científico tecnológico. PROInTec permite la búsqueda, recuperación, procesamiento, análisis y presentación de información 
+  			contenida en documentos de patentes procedente de bases de datos internacionales.
+  		</para>
+  	</section>
+  	<section xml:id="ch07b3">
+  		<title>Matheo Patent</title>
+  		<para>
+  			Matheo Patent <link xl:href="http://www.matheo-patent.com"/> es un software de uso personal (monopuesto) diseñado para 
+  			automatizar las tareas de búsqueda, recuperación y análisis de patentes de las bases de datos de la Oficina de 
+  			Patentes de los EE.UU. (USPTO) y de la Oficina Europea de Patentes (EPO). Ambos sitios dan información gratuita y 
+  			de calidad, pero requieren mucho tiempo y paciencia si se desean hacer las búsquedas “a mano”.
+  		</para>
+  		<para>
+  			Matheo Patent ha desarrollado las siguientes funciones:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					Recuperación automática de los resultados de una búsqueda sin límite en el número de patentes descargadas.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Descarga de todas las informaciones relativas a una patente (ficha, resumen, reivindicaciones, estado legal, 
+  					gráficos, documento pdf) y ordenación mediante pestañas.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Construcción de una base de datos local con todos los resultados obtenidos en varias estrategias de búsqueda.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Almacenamiento de las estrategias de búsqueda y actualización selectiva de cada una de ellas para detectar novedades.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Sistema para puntuar las patentes de acuerdo con las preferencias de la persona usuaria según cuatro ejes 
+  					(inversiones, formacion, riesgo de infracciones e impacto en el negocio).
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Análisis estadísticos y generación de representaciones gráficas (histogramas, matrices y redes).
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Agrupación de los miembros de la misma familia de patentes en un solo registro.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Generación de informes personalizados, etc.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Exportación de resultados en formato texto y XML.  Matheo Patent se utiliza en los procesos de búsqueda, evaluación 
+  					y comparación de tecnologías, detección de innovaciones, vigilancia tecnológica y de la competencia, evaluación 
+  					de negocios, inteligencia competitiva, etc.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  	</section>
+  	<section xml:id="ch07b4">
+  		<title>Mimosa</title>
+  		<para>
+  			Software que agrupa las BD de patentes de USA, Japon y Europa.
+  		</para>
+  		<informalfigure xreflabel="Fig 30">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-033.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>
+		  				Fuente: <link xl:href="http://www.madrimasd.org/informacionnidi/publicación/doc/35_intec.pdf"/>
+		  			</para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  	<section xml:id="ch07b5">
+  		<title>Otras herramientas</title>
+  		<para>
+  			Entre las herramientas existentes para el análisis de información de los principales convertidores de formatos disponibles 
+  			en el mercado, son: Bibliolink y CONVI, entre los más utilizados; los gestores de bases de datos más populares hoy, el 
+  			Procite y Endnote. Y entre los paquetes de procesamiento estadístico el: Excel, Statistica, SPSS, XLSTAT, etcétera. Y 
+  			específicos de información de patentes, el PATSTAT+ (desarrollado por Derwent Publications) y BATELLE (Battelle 
+  			Development Corporation). Estos últimos presentan limitaciones para su uso debido a que sólo procesan datos de la bases 
+  			de datos Derwent y de la United States Patent and Trademark Office (USPTO) <link xl:href="http://www.uspto.gov"/>.
+  		</para>
+  		<para>
+  			Sin dejar de mencionar a INFOCAM, diseñado por el Instituto de Documentación Científica y Tecnológica-IDICT de Cuba; 
+  			CUIB-METRIC, de la Universidad Nacional Autónoma de México- UNAM; TOA-KNOWBOT, del Tech Techology Policy and Assessment 
+  			Center, Georgia; NEURODOC, del L´Institut Scientifique et Technique, Francia y el poderoso BIBEXCEL, mayoritariamente 
+  			asociado al Science Citation Index-SCI, desarrollado por el profesor Olle Persson de la Universidad de Umea, Suecia.
+  		</para>
+  		<informalfigure xreflabel="Fig 31">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-034.jpg" />
+		  		</imageobject>
+		  	</mediaobject>
+		</informalfigure>
+		<para>
+			Entre los sistemas que permiten las representaciones de datos y son promovidos por el Patent Information Users Group 
+			(PIUG) <link xl:href="http://www.piug.org"/>, se encuentra BizInt Smart Charts, una herramienta para la búsqueda, 
+			análisis y presentación de los resultados de los análisis. Permite la construcción de un árbol de referencias para 
+			determinar el ciclo y trayectorias de una tecnología, así como las posibles estrategias de patentamiento en un sector 
+			técnico. Y Wisdomain, desarrollado por Delphion para complementar su servicio de búsqueda de patentes, que ofrece 
+			informes y gráficos sobre los campos de información bibliográfica de la patente.
+		</para>
+		<para>
+			Entre las herramientas más utilizadas en los últimos años para realizar estudios métricos y que permiten usar 
+			información de patentes, se encuentran productos europeos como: Leximape, el Dataview, el Tretalogie, BibTechMon, entre 
+			otros; y norteamericanos como PatentLab-II Eureka de Aurigin, el VantagePoing (TOAK), Matheo-Patent© y el InfoViz 
+			[<link xl:href="http://www.omniviz.com/files/OmniViz_Webinar_nov2008.pdf"/>] desarrollado por Batelle, entre otras 
+			aplicaciones no menos importantes.
+		</para>
+		<para>
+			Esta empresa se ha fusionado con la empresa BioWisdom Ltd., e inicialmente se centró en el desarrollo de métodos de 
+			visualización de los resultados del análisis. Actualmente, ofrece un paquete avanzado de software que provee 
+			visualización de datos numéricos, información categorizada, secuencias genómica, estructuras químicas, y documentos 
+			textuales, como publicaciones y patentes, en un mismo espacio visual. El software combina avanzados algoritmos de 
+			análisis textual y estadísticos, con visualizaciones de alta calidad, que facilitan el descubrimiento de nuevo 
+			conocimiento. Como fortaleza tiene que permite el tratamiento y visualización (Galaxy, CoMet) de todo tipo de 
+			información en forma conjunta. Las aplicaciones iniciales han estado en el campo de la Química, las cuales luego se 
+			extendieron a áreas de gobierno, educación y mercados de productos comerciales. Las áreas de aplicaciones incluyen 
+			la I+D, ECM, Legal, Finanzas, Mercado, Ensayos Clínicos<footnote><para>intec Factor clave para la toma de decisiones 
+			estratégicas en las organizaciones; madri+d [<link xl:href="http://www.madrimasd.org/informacionidi/biblioteca/publicacion/doc/35_INTEC.pdf"/>].</para></footnote>.
+		</para>
+		<informalfigure xreflabel="Fig 32">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-035.jpg" />
+		  		</imageobject>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  </section>
+  <section xml:id="ch07c">
+  	<title>Software de visualización de la información</title>
+  	<para>
+  		La técnica del Mapa Conceptual o Mental fue creada por el psicólogo británico Tony Buzan, investigador en el campo de la 
+  		inteligencia. Su importancia radica en que expresan una forma de pensamiento, que es el pensamiento irradiante. Esto 
+  		significa que las personas no tenemos una forma de pensamiento completamente ‘lineal’, tendemos a expresar nuestros 
+  		pensamientos de forma más bien estrellada y luego establecer relaciones entre ellos. Si queremos que no ‘se pierdan’ 
+  		hay que plasmarlos de alguna forma y luego organizarlos y relacionarlos. A partir de aquí estaremos en disposición de 
+  		sacar conclusiones y/o resultados.
+  	</para>
+  	<para>
+  		Un mapa conceptual es una herramienta para la organización y representación del conocimiento (<link xl:href="http://www.es.wikipedia.org"/>). 
+  		Los mapas conceptuales constituyen un mecanismo muy útil para transmitir de forma clara y concisa mensajes o ideas 
+  		complejas.
+  	</para>
+  	<para>
+  		La utilización de mapas conceptuales constituye una estrategia de aprendizaje para producir aprendizajes significativos, 
+  		ya que su objetivo básico es relacionar conceptos de forma ordenada. Recordamos que, en general, un aprendizaje es 
+  		significativo cuando podemos construir conocimiento en base a conocimientos anteriores.
+	</para>
+	<para>	
+		Pero además de este objetivo básico, existen otros objetivos del mapa conceptual, que son:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Estructurar un conjunto de conceptos y/o ideas.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Establecer relaciones entre ellos generando nuevos conceptos mas complejos.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<para>
+  		Los motivos por lo cuales es interesante utilizar los Mapas Mentales son:
+  	</para>
+  	<itemizedlist>
+  		<listitem>
+  			<para>
+  				Facilidad: realizar los gráficos con herramientas específicas es muy sencillo.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Eficiencia: al organizar las ideas se puede mejorar su posterior utilización.
+  			</para>
+  		</listitem>
+  		<listitem>
+  			<para>
+  				Utilización: esta técnica es muy utilizada en diferentes ámbitos profesionales, como son las empresas, universidades, etc.
+  			</para>
+  		</listitem>
+  	</itemizedlist>
+  	<section xml:id="ch07c1">
+  		<title>TouchGraph</title>
+  		<para>
+  			Es un programa escrito en java que permite visualizar y navegar interactivamente por redes de información 
+  			interrelacionada. Existen dos modalidades, una versión liberada en sourceforge y una versión de pago propiedad 
+  			de Google.
+  		</para>
+  	</section>
+  	<section xml:id="ch07c2">
+  		<title>FreeMind: mapas conceptuales</title>
+  		<para>
+  			FreeMind<footnote><para>Mas información: <link xl:href="http://observatorio.cnice.mec.es/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=716&amp;mode=thread&amp;order=0&amp;thold=0&amp;POSTNUKESID=2d1e46becd8a7678fcb32bbadf58dd3c"/> 
+  			[ultimo acceso 12/09/09].</para></footnote>  es una herramienta para la elaboración y manipulación de mapas conceptuales. 
+  			Es decir, una herramienta para organizar y estructurar las ideas, los conceptos, su relación entre ellos y su evolución. 
+  			Y, como hemos comentado, puede ser utilizada en cualquier área del ámbito educativo y como mecanismo o forma de plasmar 
+  			tormentas de ideas de todo tipo para su posterior reutilización.
+  		</para>
+  		<para>
+  			Está basado en Java y es Open Source, bajo licencia GPL. La página del proyecto es <link xl:href="http://freemind.sourceforge.net"/>. 
+  			Es un software ligero, sencillo de instalar, configurar y utilizar. Al ser Java es multiplataforma y, por lo tanto, 
+  			disponible en Windows y GNU/Linux.
+  		</para>
+  		<para>
+  			Su requerimiento más importante es tener instalado el entorno de ejecución Java JRE 1.4 o superior. Los proyectos 
+  			generados los guarda como XML, garantizando así su reutilización.
+  		</para>
+  		<para>
+  			El resultado es un grafo en el que se representan las ideas relacionadas con un tema y se pueden ir refinando y 
+  			extendiendo cada una de las ramas hasta capturar todas las ideas relativas al tema que se pretende analizar.
+  		</para>
+  		<para>
+  			Las principales características de FreeMind son las siguientes:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					Permite la utilización de enlaces HTML en los nodos.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Soporta el plegado y desplegado de los nodos.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Arrastre/Copia inteligente, es decir, el usuario puede mover los nodos y su información y estilo asociado. 
+  					También para múltiples nodos seleccionados, arrastrar textos, enlaces y archivos asociados.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Permite publicar los mapas en Internet como páginas HTML o XHTML si queremos incluir la imagen.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Tiene la opción de incluir iconos en el mapa conceptual para diferenciar ideas/conceptos específicas 
+  					o relacionadas. También puede incluir iconos simplemente como decoración.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Utiliza formato XML lo que facilita exportar los mapas conceptuales a otras aplicaciones.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Es multilenguaje, con lo cual soporta español.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  		<para>
+  			Otras aplicaciones con funcionalidad similar a FreeMind son:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">Xmind</emphasis>, basado en eclipse framework y también Open Source. 
+  					<link xl:href="http://www.xmind.net"/>
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">MindManager</emphasis>, propiedad de la empresa MindJet. <link xl:href="http://www.mindjet.com"/>
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">Compendium</emphasis>(Open Learn). <link xl:href="http://projects.kmi.open.ac.uk/compendium"/>
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					<emphasis role="strong">CmapTools</emphasis>, creado por el Institute for Human and Machine Cognition (IHMC), 
+  					de la Universidad de West Florida (Estados Unidos), <link xl:href="http://cmap.ihmc.us"/>
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  		<informalfigure xreflabel="Fig 33">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-036.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para>Para saber un poco más de TouchGraph:
+						<link xl:href="http://www.barrioblog.com/index.php/2008/09/22/como-usar-touchgraph-navigator-y-no-morir-en-el-intento/"/>
+					</para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  </section>
+  <section xml:id="ch07d">
+  	<title>Agentes de búsqueda</title>
+  	<section xml:id="ch07d1">
+  		<title>Copernic</title>
+  		<informalfigure xreflabel="Fig 34">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-037.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para><link xl:href="http://www.copernic.com/"/></para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  	<section xml:id="ch07d2">
+  		<title>Botbox</title>
+  		<informalfigure xreflabel="Fig 35">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-038.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para><link xl:href="http://www.botbox.com/"/></para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  	<section xml:id="ch07d3">
+  		<title>WebSite-Watcher</title>
+  		<para><link xl:href="http://www.aignes.com/"/></para>
+  		<para>
+  			Es un software especializado en sistematizar la monitorización de puestas al día y cambios de especial interés en 
+  			páginas web.
+  		</para>
+  		<para>
+  			WSW tiene un menú sencillo para personas con poca experiencia y un menú avanzado para quienes desean programar 
+  			scripts o definir la detección de cambios muy especiales. 
+  		</para>
+  		<para>
+  			WSW puede monitorizar todo tipo de informaciones o ficheros accesibles en la red local, en la intranet o en internet.
+  		</para>
+  		<para>
+  			Permite sistematizar el chequeo de cambios en cualquier tipo de páginas web, incluyendo aquellas que están protegidas 
+  			por un identificativo y password, una función javascript, un formulario de búsqueda, etc. También permite monitorizar 
+  			páginas con número de sesión, etc. WSW dispone de un asistente para la creación de macros en casos complicados, que 
+  			permiten que una persona con un breve entrenamiento programe a WSW para que llegue a la página que hay que monitorizar.
+  		</para>
+  		<para>
+  			Posibles usos de WebSite Watcher (fuente Grupo CDE <link xl:href="http://www.cde.es"/>):
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					Monitorizar foros para detectar nuevos temas de discusión y sus respuestas.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Monitorizar canales de noticias RSS en los que aparece al menos un término de un listado predefinido.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Monitorizar nuevos resultados de una búsqueda en una base de datos.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Detectar cambios en una especificación de un producto, servicio, contrato, etc.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Detectar una versión nueva de un fichero binario (p.ej. ficheros .zip o .exe).
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Vigilar cuando hay una nueva versión o un nuevo precio de un producto.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Vigilar la evolución de la competencia, detectando los cambios que se van produciendo en su sitio web.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Vigilar cambios en un sitio web, detectando nuevos contenidos en los que aparece un término de interés.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  		<para>
+  			Website-Watcher permite establecer filtros para considerar un cambio como “significativo”:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					que esté situado en un área concreta de la página.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					que figure al menos una palabra clave, de un listado de términos predefinidos.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  		<para>
+  			También permite ignorar cambios en contenidos no significativos, p.ej. día y hora, número de personas usuarias 
+  			conectadas, nº de documentos en una base de datos, tiempo de respuesta a una pregunta, mensajes de error de un 
+  			servidor, etc.
+  		</para>
+  		<para>
+  			Una vez detectado un cambio, WSW permite activar diferentes sonidos, alertas o ejecutar diferentes programas 
+  			en función de la página que ha cambiado. Por ejemplo, es capaz de publicar una página en la intranet siempre 
+  			que haya cambiado. También es posible archivar ciertas páginas en combinación con el programa WebSite Archive.
+  		</para>
+  		<para>
+  			Por último, es posible definir diferentes formatos de informes y generarlos a voluntad.
+  		</para>
+  		<informalfigure xreflabel="Fig 36">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-039.jpg" />
+		  		</imageobject>
+		  		<caption>
+		  			<para><link xl:href="http://www.aignes.com/"/></para>
+		  		</caption>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  	<section xml:id="ch07d4">
+  		<title>Naveganza</title>
+  		<para><link xl:href="http://www.isoco.com/pdf/naveganza.pdf"/></para>
+  		<para>
+  			Cuando buscamos información con un buscador tradicional, encontramos multitud de respuestas a nuestras preguntas, 
+  			algunas pueden contener la respuesta que buscamos y otras no guardar ninguna relación con nuestra necesidad de 
+  			información. Naveganza es la solución de iSOCO que permite obtener respuestas precisas a las preguntas que se 
+  			le realizan en lenguaje natural basándose en los conceptos y no solo en las palabras.
+  		</para>
+  		<informalfigure xreflabel="Fig 37">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-040.jpg" />
+		  		</imageobject>
+		  	</mediaobject>
+		</informalfigure>
+  	</section>
+  </section>
+  <section xml:id="ch07e">
+  	<title>Software de Vigilancia Tecnológica</title>
+  	<para>
+  		Es muy importante hacer una diferenciación entre las plataformas integradoras que hay que configurar, como por ejemplo 
+  		la plataforma Denodo, de otros tipo de software que son paquetes cerrados y sólo hay que configurar el tipo de 
+  		información o como se quiere visualizar. No hay una solución definitiva que nos evite realizar las tareas de Vigilancia 
+  		Tecnológica. En el mercado hay soluciones, muchas plataformas, algún que otro software, pero ninguno es la solución 
+  		definitiva. Lo que quiero decir es que por ejemplo, la Plataforma VIXIA, la plataforma de Vigilancia del ITA (Instituto 
+  		Tecnológico de Aragón), utilizan por debajo el software de DENODO technologies.
+  	</para>
+  	<section xml:id="ch07e1">
+  		<title>Thera</title>
+  		<para>
+  			Thera Centre de Llenguatge i Computació S.L. está constituida por un grupo de trabajo dinámico y versátil, que reúne 
+  			jóvenes con diferentes perfiles profesionales con un alto nivel de especialización: lingüistas, filólogos, traductores 
+  			e ingenieros informáticos.
+  		</para>
+  		<para>
+  			Thera, spin-off de CLiC, Centre de Llenguatge i Computació de la Universitat de Barcelona, cuenta con la experiencia 
+  			de mas de 20 años de investigación en el área de la Lingüística Computacional, y con mas de 6 años en el desarrollo 
+  			de aplicaciones en las tecnologías del conocimiento y en la gestión de la información basadas en la ingeniería 
+  			lingüística <link xl:href="http://www.thera-clic.com/site/Empresa/index-ES.html"/>.
+  		</para>
+  	</section>
+  	<section xml:id="ch07e2">
+  		<title>Vigiale</title>
+  		<para>
+  			Plataforma Web para la gestión de la Vigilancia Tecnológica y del Entorno, diseñada bajo los principios de la segunda 
+  			generación de aplicaciones Web o “Web 2.0?, que permite gestionar recursos de información de distinta naturaleza, 
+  			ordenarlos, clasificarlos, actualizarlos y recibir notificaciones de cambio. Vigiale es además, una red social en 
+  			torno a un sector específico, permitiendo la interacción y colaboración entre los usuarios en foros de discusión 
+  			sobre un determinado recurso, y en proyectos para el desarrollo de estudios de Vigilancia Tecnológica e Inteligencia 
+  			Estratégica.
+  		</para>
+  	</section>
+  	<section xml:id="ch07e3">
+  		<title>LUXID</title>
+  		<para>
+  			(<link xl:href="http://www.temis.com/index.php?id=217&amp;selt=1"/>)
+  		</para>
+  		<para>
+  			Aplicación líder en el tratamiento de informaciones en texto libre –artículos científicos y patentes principalmente– 
+  			utilizando Minería de Textos (Text Mining). Analiza diversas clases de información en una sola aplicación. La mayoría 
+  			de las aplicaciones se concentran en un área de conocimiento, como la interacción proteína-proteína, pero Temis ha 
+  			creado una poderosa solución integradora que permite analizar, por ejemplo, información química conjuntamente con 
+  			información biológica.
+  		</para>
+  	</section>
+  	<section xml:id="ch07e4">
+  		<title>Diana Technologies</title>
+  		<para>
+  			XerKa es una solución software que vigila automáticamente la aparición de nueva información de interés para la 
+  			empresa. Automatiza los procesos de búsqueda, análisis, clasificación y difusión de dicha información para que 
+  			cada usuario disponga de información de valor en el momento oportuno y la empresa rentabilice el proceso de vigilancia.
+  		</para>
+  	</section>
+  	<section xml:id="ch07e5">
+  		<title>Vixía</title>
+  		<para>
+  			El CIS-Ferrol desarrolla el sistema «Vixía» en el año 2003. «Vixía» es un Sistema de Vigilancia Tecnológica (VT) e 
+  			Inteligencia Competitiva (IC) cuyo aspecto más innovador es la asociación de una metodología y una plataforma 
+  			tecnológica desarrollada exprofeso segun los requisitos operativos definidos por la Unidade de Vixilancia e 
+  			Trasnferencia Tecnolóxica do CIS Galicia. «Vixía» permite a las empresas disponer de información permanentemente 
+  			actualizada sobre los cambios que se producen en su entorno y que les afectan en su actividad diaria. El Sistema 
+  			«Vixía» facilita ademas los procesos de gestión de la información que genera la propia empresa, y dinamiza la 
+  			comunicación interna de forma multidireccional: entre los departamentos (horizontal) y entre los distintos niveles 
+  			de la jerarquía organizativa de la empresa (vertical).
+  		</para>
+  	</section>
+  	<section xml:id="ch07e6">
+  		<title>AIMPLAS SOFVT</title>
+  		<para>
+  			<link xl:href="http://www.softvt.com"/>
+  		</para>
+  		<para>
+  			softVT es un software de vigilancia tecnológica desarrollado en 2003 por el Departamento de Información Técnica de 
+  			AIMPLAS Instituto Tecnológico del Plástico, formado por un equipo de profesionales de la Documentación e Informática 
+  			con varios años de experiencia en el campo de la vigilancia tecnológica.
+  		</para>
+  		<para>
+  			La aplicación SoftVT permite no sólo el control de un número indefinido de fuentes de información, sino también la 
+  			generación de varios productos y servicios de información a través de la información recuperada, todos ellos orientados 
+  			a la detección, gestión y diseminación de la información tecnológica más reciente y actualizada, que en muchos casos 
+  			puede ser crucial en la toma de decisiones estratégicas por parte de una empresa.
+  		</para>
+  		<para>
+  			SoftVT se trata de una herramienta “escalable” y versátil, por lo que ya ha sido utilizada como solución en diferentes 
+  			sectores (plástico, juguete, aeronáutica, automoción, envase-embalaje, etc.). Entre las posibilidades que ofrece este 
+  			software para la vigilancia tecnológica, pueden enumerarse diferentes aplicaciones: desde la publicación web de un 
+  			boletín de novedades tecnológicas extraídas de un número ilimitado de fuentes de información, hasta una implantación 
+  			total que permita crear y gestionar una base de datos propia y el envío de boletines y alertas tecnológicas 
+  			personalizadas, con el fin de establecerse como una solución integral en cuanto a inteligencia competitiva se refiere.
+  		</para>
+  		<informalfigure xreflabel="Fig 38">
+		  	<mediaobject>
+		  		<imageobject>
+		  			<imagedata fileref="resource/INF-4-042.jpg" />
+		  		</imageobject>
+		  	</mediaobject>
+		  	<caption>
+		  		<para>
+		  			Fuente: Valoración, selección y pertinencia de herramientas de software utilizadas en Vigilancia Tecnológica. En 
+		  			Ingeniería e Investigación,abril,2006, vol. 26, numero 001, Colombia.
+		  		</para>
+		  	</caption>
+		</informalfigure>
+  	</section>
+  	<section xml:id="ch07e7">
+  		<title>Vicubo</title>
+  		<para><link xl:href="http://www.vicubo.es/"/></para>
+  		<para>
+  			e-Intelligence tiene su Origen en la Universidad Politécnica de Madrid como grupo de I+D.
+  		</para>
+  		<para>
+  			Se creó como spin off en el año 2002 formada por un equipo multidisciplinar de (informáticos, ingenieros en 
+  			telecomunicaciones, documentalistas...) con amplia experiencia en el ámbito de las Tecnologías de la Información y 
+  			la gestión de la Innovación Tecnológica.
+  		</para>
+  		<para>
+  			Sus principales áreas de negocio son:
+  		</para>
+  		<itemizedlist>
+  			<listitem>
+  				<para>
+  					Vigilancia Estratégica.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Consultoría y Desarrollo Web.
+  				</para>
+  			</listitem>
+  			<listitem>
+  				<para>
+  					Administración de Sistemas.
+  				</para>
+  			</listitem>
+  		</itemizedlist>
+  	</section>
+  	<section xml:id="ch07e8">
+  		<title>Denodo</title>
+  		<para>
+  			Denodo <link xl:href="http://www.denodo.es/"/> es una empresa especializada en la extracción e integración de 
+  			información en tiempo real sobre sistemas distribuidos.
+  		</para>
+  		<para>
+  			Denodo trabaja con información procedente tanto de entornos corporativos (bases de datos, hojas de cálculo, 
+  			aplicaciones, sistemas de ficheros y cualquier otro repositorio de información no estructurada) como de Internet 
+  			(sitios web de entidades socias, empresas proveedoras, clientes y competidoras e información web accesible sobre 
+  			datos y noticias de mercado, regulaciones, ayudas, oportunidades, etc). El resultado es la alimentación de los 
+  			procesos de negocio con datos integrados en tiempo real.
+  		</para>
+  	</section>
+  	<section xml:id="ch07e9">
+  		<title>DIGIMIND</title>
+  		<para>
+  			DIGIMIND <link xl:href="http://www.digimind.fr"/> es una empresa francesa que ha diseñado y desarrollado una plataforma 
+  			de gestión del ciclo de la Inteligencia Estratégica denominada DIGIMIND Evolution. Esta plataforma permite a las 
+  			empresas desplegar equipos de vigilancia estratégica y dinamizarlos.
+  		</para>
+  		<para>
+  			DIGIMIND Evolution responde a las necesidades crecientes de las empresas de desarrollar sus capacidades anticipativas y 
+  			reactivas ante la rápida evolución de su entorno y sobre todo ante las acciones de la competencia.
+  		</para>
+  		<para>
+  			Este software está concebido para facilitar que las empresas diseñen equipos de vigilancia distribuidos pero a la vez 
+  			coordinados, ágiles y eficaces para detectar amenazas y oportunidades. Digimind Evolution soporta todas las 
+  			actividades de estos equipos, de modo que la recopilación, la difusión y el análisis de las informaciones estrategicas 
+  			se convierten en tareas fáciles (Fuente: Grupo CDE).
+  		</para>
+  	</section>
+  	<informalfigure xreflabel="Fig 39">
+	  	<mediaobject>
+	  		<imageobject>
+	  			<imagedata fileref="resource/INF-4-041.jpg" />
+	  		</imageobject>
+	  	</mediaobject>
+	  	<caption>
+	  		<para>
+	  			Fuente: Valoración, selección y pertinencia de herramientas de software utilizadas en Vigilancia Tecnológica. En 
+	  			Ingeniería e Investigación,abril,2006, vol. 26, numero 001, Colombia.
+	  		</para>
+	  	</caption>
+	</informalfigure>
+  </section>
+  <section xml:id="ch07f">
+  	<title>Portales de organismos públicos que ofrecen servicios de Vigilancia Tecnológica</title>
+  	<variablelist>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">Obtesol</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.obtesol.es/index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=35"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">Aimme</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://observatorio.aimme.es/"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">Instituto Tecnológico de Aragón</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.ita.es"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">Madri+d</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.madrimasd.org/informacionidi/biblioteca/Publicacion/Vigilancia-tecnologica/default.asp"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">Zaintek</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://apli.bizkaia.net/apps/danok/w2/ebizkaia/L1/index.asp"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">CIS-Centro de Innovación y Servicios</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.vixia.info"/>
+  				</para>
+  			</listitem>
+  		</varlistentry>
+  	</variablelist>
+  </section>
+  <section xml:id="ch07g">
+  	<title>Webs, blogs y otros portales interesantes</title>
+  	<variablelist>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">La Cofa</emphasis>
+  			</term>
+  			<listitem>
+  				<para><link xl:href="http://www.lacofa.es/"/></para>
+  				<para>
+  					Este es un weblog colectivo dedicado a la Vigilancia Tecnológica sobre el Futuro de Internet, la Banda Ancha y 
+  					la Movilidad y otros temas de las Tecnologías de la Información y las Comunicaciones. Y siempre primando un 
+  					enfoque más técnico que de negocio o cultural. Todo esto con criterio y ánimo flexible. El contenido, 
+  					estructura y orientación no es fijo ni inamovible, al igual que estos principios, por lo que estaremos muy 
+  					atentos al desarrollo y a la respuesta que tenga esta actividad para modificarla buscando la máxima utilidad de 
+  					forma que sea una herramienta útil para sus lectores.
+  				</para>
+  				<informalfigure xreflabel="Fig 40">
+				  	<mediaobject>
+				  		<imageobject>
+				  			<imagedata fileref="resource/INF-4-043.jpg" />
+				  		</imageobject>
+				  	</mediaobject>
+				</informalfigure>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">collective intellect</emphasis>
+  			</term>
+  			<listitem>
+  				<para><link xl:href="http://www.collectiveintellect.com"/></para>
+  			</listitem>
+  		</varlistentry>
+  		<varlistentry>
+  			<term>
+  				<emphasis role="strong">La Inteligencia Competitiva: factor clave para la toma de deciciones estratéticas en las organizaciones</emphasis>
+  			</term>
+  			<listitem>
+  				<para>
+  					<link xl:href="http://www.madrimasd.org/Inteligencia-Competitiva/introduccion/default.asp" />
+  				</para>
+  				<informalfigure xreflabel="Fig 41">
+				  	<mediaobject>
+				  		<imageobject>
+				  			<imagedata fileref="resource/INF-4-044.jpg" />
+				  		</imageobject>
+				  	</mediaobject>
+				</informalfigure>
+  			</listitem>
+  		</varlistentry>
+  	</variablelist>
+  </section>
+</chapter>
